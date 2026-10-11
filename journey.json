@@ -1,0 +1,594 @@
+{
+  "version": 1,
+  "storyUnlock": "completion-or-calendar",
+  "storyDates": {
+    "1": "2026-11-09T00:00:00+01:00",
+    "2": "2026-11-30T00:00:00+01:00",
+    "3": "2026-12-28T00:00:00+01:00",
+    "4": "2027-01-04T00:00:00+01:00"
+  },
+  "seriesCover": {
+    "image": "series-mosaic.webp",
+    "alt": "Un mosaico geométrico une una vivienda de Belén, un camino y costas lejanas."
+  },
+  "sessions": [
+    {
+      "number": 1,
+      "image": "session-01.webp",
+      "alt": "David ora junto a Natán cerca del santuario, con Jerusalén y las colinas de pastoreo al fondo.",
+      "connections": [
+        {
+          "reference": "1 Samuel 8:5–6",
+          "url": "https://ebible.org/spaRV1909/1SA08.htm#V5",
+          "verses": [
+            {
+              "key": "1Sam.8.5",
+              "verse": 5,
+              "text": "Y dijéronle: He aquí tú has envejecido, y tus hijos no van por tus caminos: por tanto, constitúyenos ahora un rey que nos juzgue, como todas las gentes."
+            },
+            {
+              "key": "1Sam.8.6",
+              "verse": 6,
+              "text": "Y descontentó á Samuel esta palabra que dijeron: Danos rey que nos juzgue. Y Samuel oró á Jehová."
+            }
+          ]
+        },
+        {
+          "reference": "1 Reyes 11:34–36",
+          "url": "https://ebible.org/spaRV1909/1KI11.htm#V34",
+          "verses": [
+            {
+              "key": "1Kgs.11.34",
+              "verse": 34,
+              "text": "Empero no quitaré nada de su reino de sus manos, sino que lo retendré por caudillo todos los días de su vida, por amor de David mi siervo, al cual yo elegí, y él guardó mis mandamientos y mis estatutos:"
+            },
+            {
+              "key": "1Kgs.11.35",
+              "verse": 35,
+              "text": "Mas yo quitaré el reino de la mano de su hijo, y darélo á ti, las diez tribus."
+            },
+            {
+              "key": "1Kgs.11.36",
+              "verse": 36,
+              "text": "Y á su hijo daré una tribu, para que mi siervo David tenga lámpara todos los días delante de mí en Jerusalem, ciudad que yo me elegí para poner en ella mi nombre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "image": "session-02.webp",
+      "alt": "Un pueblo sale de la oscuridad hacia un amanecer de esperanza y paz.",
+      "connections": [
+        {
+          "reference": "Isaías 8:19–22",
+          "url": "https://ebible.org/spaRV1909/ISA08.htm#V19",
+          "verses": [
+            {
+              "key": "Isa.8.19",
+              "verse": 19,
+              "text": "Y si os dijeren: Preguntad á los pythones y á los adivinos, que susurran hablando, responded : ¿No consultará el pueblo á su Dios? ¿ Apelará por los vivos á los muertos?"
+            },
+            {
+              "key": "Isa.8.20",
+              "verse": 20,
+              "text": "¡A la ley y al testimonio! Si no dijeren conforme á esto, es porque no les ha amanecido."
+            },
+            {
+              "key": "Isa.8.21",
+              "verse": 21,
+              "text": "Y pasarán por él fatigados y hambrientos, y acontecerá que teniendo hambre, se enojarán y maldecirán á su rey y á su Dios, levantando el rostro en alto."
+            },
+            {
+              "key": "Isa.8.22",
+              "verse": 22,
+              "text": "Y mirarán á la tierra, y he aquí tribulación y tiniebla, oscuridad y angustia; y serán sumidos en las tinieblas."
+            }
+          ]
+        },
+        {
+          "reference": "Isaías 9:13–17",
+          "url": "https://ebible.org/spaRV1909/ISA09.htm#V13",
+          "verses": [
+            {
+              "key": "Isa.9.13",
+              "verse": 13,
+              "text": "Mas el pueblo no se convirtió al que lo hería, ni buscaron á Jehová de los ejércitos."
+            },
+            {
+              "key": "Isa.9.14",
+              "verse": 14,
+              "text": "Y Jehová cortará de Israel cabeza y cola, ramo y caña en un mismo día."
+            },
+            {
+              "key": "Isa.9.15",
+              "verse": 15,
+              "text": "El viejo y venerable de rostro es la cabeza: el profeta que enseña mentira, este es cola."
+            },
+            {
+              "key": "Isa.9.16",
+              "verse": 16,
+              "text": "Porque los gobernadores de este pueblo son engañadores; y sus gobernados, perdidos."
+            },
+            {
+              "key": "Isa.9.17",
+              "verse": 17,
+              "text": "Por tanto, el Señor no tomará contentamiento en sus mancebos, ni de sus huérfanos y viudas tendrá misericordia: porque todos son falsos y malignos, y toda boca habla despropósitos. Con todo esto no ha cesado su furor, antes todavía su mano extendida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "image": "session-03.webp",
+      "alt": "Un pastor conduce su rebaño cerca de la pequeña Belén entre las colinas de Judea.",
+      "connections": [
+        {
+          "reference": "Miqueas 4:9–10",
+          "url": "https://ebible.org/spaRV1909/MIC04.htm#V9",
+          "verses": [
+            {
+              "key": "Mic.4.9",
+              "verse": 9,
+              "text": "Ahora ¿por qué gritas tanto? ¿No hay rey en ti? ¿Pereció tu consejero, que te ha tomado dolor como de mujer de parto?"
+            },
+            {
+              "key": "Mic.4.10",
+              "verse": 10,
+              "text": "Duélete y gime, hija de Sión, como mujer de parto; porque ahora saldrás de la ciudad, y morarás en el campo, y llegarás hasta Babilonia: allí serás librada, allí te redimirá Jehová de la mano de tus enemigos."
+            }
+          ]
+        },
+        {
+          "reference": "1 Samuel 16:11–12",
+          "url": "https://ebible.org/spaRV1909/1SA16.htm#V11",
+          "verses": [
+            {
+              "key": "1Sam.16.11",
+              "verse": 11,
+              "text": "Entonces dijo Samuel á Isaí: ¿Hanse acabado los mozos? Y él respondió: Aun queda el menor, que apacienta las ovejas. Y dijo Samuel á Isaí: Envía por él, porque no nos asentaremos á la mesa hasta que él venga aquí."
+            },
+            {
+              "key": "1Sam.16.12",
+              "verse": 12,
+              "text": "Envió pues por él , é introdújolo; el cual era rubio, de hermoso parecer y de bello aspecto. Entonces Jehová dijo: Levántate y úngelo, que éste es."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "image": "session-04.webp",
+      "alt": "Viajeros de distintas naciones se reúnen en un camino iluminado junto al mar.",
+      "connections": [
+        {
+          "reference": "Isaías 49:14–16",
+          "url": "https://ebible.org/spaRV1909/ISA49.htm#V14",
+          "verses": [
+            {
+              "key": "Isa.49.14",
+              "verse": 14,
+              "text": "Mas Sión dijo: Dejóme Jehová, y el Señor se olvidó de mí."
+            },
+            {
+              "key": "Isa.49.15",
+              "verse": 15,
+              "text": "¿Olvidaráse la mujer de lo que parió, para dejar de compadecerse del hijo de su vientre? Aunque se olviden ellas, yo no me olvidaré de ti."
+            },
+            {
+              "key": "Isa.49.16",
+              "verse": 16,
+              "text": "He aquí que en las palmas te tengo esculpida: delante de mí están siempre tus muros."
+            }
+          ]
+        },
+        {
+          "reference": "Génesis 12:2–3",
+          "url": "https://ebible.org/spaRV1909/GEN12.htm#V2",
+          "verses": [
+            {
+              "key": "Gen.12.2",
+              "verse": 2,
+              "text": "Y haré de ti una nación grande, y bendecirte he, y engrandeceré tu nombre, y serás bendición:"
+            },
+            {
+              "key": "Gen.12.3",
+              "verse": 3,
+              "text": "Y bendeciré á los que te bendijeren, y á los que te maldijeren maldeciré: y serán benditas en ti todas las familias de la tierra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "image": "session-05.webp",
+      "alt": "Zacarías escucha a un ángel de rasgos de Oriente Medio y cuerpo luminoso en el templo.",
+      "connections": [
+        {
+          "reference": "Malaquías 3:1–3",
+          "url": "https://ebible.org/spaRV1909/MAL03.htm#V1",
+          "verses": [
+            {
+              "key": "Mal.3.1",
+              "verse": 1,
+              "text": "HE aquí, yo envío mi mensajero, el cual preparará el camino delante de mí: y luego vendrá á su templo el Señor á quien vosotros buscáis, y el ángel del pacto, á quien deseáis vosotros. He aquí viene, ha dicho Jehová de los ejércitos."
+            },
+            {
+              "key": "Mal.3.2",
+              "verse": 2,
+              "text": "¿Y quién podrá sufrir el tiempo de su venida? ó ¿quién podrá estar cuando él se mostrará? Porque él es como fuego purificador, y como jabón de lavadores."
+            },
+            {
+              "key": "Mal.3.3",
+              "verse": 3,
+              "text": "Y sentarse ha para afinar y limpiar la plata: porque limpiará los hijos de Leví, los afinará como á oro y como á plata; y ofrecerán á Jehová ofrenda con justicia."
+            }
+          ]
+        },
+        {
+          "reference": "Malaquías 4:5–6",
+          "url": "https://ebible.org/spaRV1909/MAL04.htm#V5",
+          "verses": [
+            {
+              "key": "Mal.4.5",
+              "verse": 5,
+              "text": "He aquí, yo os envío á Elías el profeta, antes que venga el día de Jehová grande y terrible."
+            },
+            {
+              "key": "Mal.4.6",
+              "verse": 6,
+              "text": "El convertirá el corazón de los padres á los hijos, y el corazón de los hijos á los padres: no sea que yo venga, y con destrucción hiera la tierra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "image": "session-06.webp",
+      "alt": "María escucha a un ángel de rasgos de Oriente Medio y cuerpo luminoso en Nazaret.",
+      "connections": [
+        {
+          "reference": "2 Samuel 7:12–16",
+          "url": "https://ebible.org/spaRV1909/2SA07.htm#V12",
+          "verses": [
+            {
+              "key": "2Sam.7.12",
+              "verse": 12,
+              "text": "Y cuando tus días fueren cumplidos, y durmieres con tus padres, yo estableceré tu simiente después de ti, la cual procederá de tus entrañas, y aseguraré su reino."
+            },
+            {
+              "key": "2Sam.7.13",
+              "verse": 13,
+              "text": "El edificará casa á mi nombre, y yo afirmaré para siempre el trono de su reino."
+            },
+            {
+              "key": "2Sam.7.14",
+              "verse": 14,
+              "text": "Yo le seré á él padre, y él me será á mí hijo. Y si él hiciere mal, yo le castigaré con vara de hombres, y con azotes de hijos de hombres;"
+            },
+            {
+              "key": "2Sam.7.15",
+              "verse": 15,
+              "text": "Empero mi misericordia no se apartará de él, como la aparté de Saúl, al cual quité de delante de ti."
+            },
+            {
+              "key": "2Sam.7.16",
+              "verse": 16,
+              "text": "Y será afirmada tu casa y tu reino para siempre delante de tu rostro; y tu trono será estable eternalmente."
+            }
+          ]
+        },
+        {
+          "reference": "Isaías 7:14",
+          "url": "https://ebible.org/spaRV1909/ISA07.htm#V14",
+          "verses": [
+            {
+              "key": "Isa.7.14",
+              "verse": 14,
+              "text": "Por tanto el mismo Señor os dará señal: He aquí que la virgen concebirá, y parirá hijo, y llamará su nombre Emmanuel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "image": "session-07.webp",
+      "alt": "María y Elisabet se encuentran con alegría junto a una vivienda de Judea.",
+      "connections": [
+        {
+          "reference": "1 Samuel 2:1–8",
+          "url": "https://ebible.org/spaRV1909/1SA02.htm#V1",
+          "verses": [
+            {
+              "key": "1Sam.2.1",
+              "verse": 1,
+              "text": "Y ANNA oró y dijo: mi corazón se regocija en Jehová, mi cuerno es ensalzado en Jehová; mi boca se ensanchó sobre mis enemigos, por cuanto me alegré en tu salud."
+            },
+            {
+              "key": "1Sam.2.2",
+              "verse": 2,
+              "text": "No hay santo como Jehová: porque no hay ninguno fuera de ti; y no hay refugio como el Dios nuestro."
+            },
+            {
+              "key": "1Sam.2.3",
+              "verse": 3,
+              "text": "No multipliquéis hablando grandezas, altanerías; cesen las palabras arrogantes de vuestra boca; porque el Dios de todo saber es Jehová, y á él toca el pesar las acciones."
+            },
+            {
+              "key": "1Sam.2.4",
+              "verse": 4,
+              "text": "Los arcos de los fuertes fueron quebrados, y los flacos se ciñeron de fortaleza."
+            },
+            {
+              "key": "1Sam.2.5",
+              "verse": 5,
+              "text": "Los hartos se alquilaron por pan: y cesaron los hambrientos: hasta parir siete la estéril, y la que tenía muchos hijos enfermó."
+            },
+            {
+              "key": "1Sam.2.6",
+              "verse": 6,
+              "text": "Jehová mata, y él da vida: él hace descender al sepulcro, y hace subir."
+            },
+            {
+              "key": "1Sam.2.7",
+              "verse": 7,
+              "text": "Jehová empobrece, y él enriquece: abate, y ensalza."
+            },
+            {
+              "key": "1Sam.2.8",
+              "verse": 8,
+              "text": "El levanta del polvo al pobre, y al menesteroso ensalza del estiércol, para asentarlo con los príncipes; y hace que tengan por heredad asiento de honra: porque de Jehová son las columnas de la tierra, y él asentó sobre ellas el mundo."
+            }
+          ]
+        },
+        {
+          "reference": "Génesis 17:7",
+          "url": "https://ebible.org/spaRV1909/GEN17.htm#V7",
+          "verses": [
+            {
+              "key": "Gen.17.7",
+              "verse": 7,
+              "text": "Y estableceré mi pacto entre mí y ti, y tu simiente después de ti en sus generaciones, por alianza perpetua, para serte á ti por Dios, y á tu simiente después de ti."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "image": "session-08.webp",
+      "alt": "José y María cuidan al recién nacido Jesús en la sencillez de Belén.",
+      "connections": [
+        {
+          "reference": "Miqueas 5:2–4",
+          "url": "https://ebible.org/spaRV1909/MIC05.htm#V2",
+          "verses": [
+            {
+              "key": "Mic.5.2",
+              "verse": 2,
+              "text": "Mas tú, Beth-lehem Ephrata, pequeña para ser en los millares de Judá, de ti me saldrá el que será Señor en Israel; y sus salidas son desde el principio, desde los días del siglo."
+            },
+            {
+              "key": "Mic.5.3",
+              "verse": 3,
+              "text": "Empero los dejará hasta el tiempo que para la que ha de parir; y el resto de sus hermanos se tornará con los hijos de Israel."
+            },
+            {
+              "key": "Mic.5.4",
+              "verse": 4,
+              "text": "Y estará, y apacentará con fortaleza de Jehová, con grandeza del nombre de Jehová su Dios: y asentarán; porque ahora será engrandecido hasta los fines de la tierra."
+            }
+          ]
+        },
+        {
+          "reference": "Lucas 1:51–53",
+          "url": "https://ebible.org/spaRV1909/LUK01.htm#V51",
+          "verses": [
+            {
+              "key": "Luke.1.51",
+              "verse": 51,
+              "text": "Hizo valentía con su brazo: esparció los soberbios del pensamiento de su corazón."
+            },
+            {
+              "key": "Luke.1.52",
+              "verse": 52,
+              "text": "Quitó los poderosos de los tronos, y levantó á los humildes."
+            },
+            {
+              "key": "Luke.1.53",
+              "verse": 53,
+              "text": "A los hambrientos hinchió de bienes; y á los ricos envió vacíos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "image": "session-09.webp",
+      "alt": "Los pastores escuchan el anuncio de un ángel luminoso de rasgos de Oriente Medio bajo el cielo nocturno.",
+      "connections": [
+        {
+          "reference": "Isaías 9:6–7",
+          "url": "https://ebible.org/spaRV1909/ISA09.htm#V6",
+          "verses": [
+            {
+              "key": "Isa.9.6",
+              "verse": 6,
+              "text": "Porque un niño nos es nacido, hijo nos es dado; y el principado sobre su hombro: y llamaráse su nombre Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz."
+            },
+            {
+              "key": "Isa.9.7",
+              "verse": 7,
+              "text": "Lo dilatado de su imperio y la paz no tendrán término, sobre el trono de David, y sobre su reino, disponiéndolo y confirmándolo en juicio y en justicia desde ahora para siempre. El celo de Jehová de los ejércitos hará esto."
+            }
+          ]
+        },
+        {
+          "reference": "Isaías 40:1–2",
+          "url": "https://ebible.org/spaRV1909/ISA40.htm#V1",
+          "verses": [
+            {
+              "key": "Isa.40.1",
+              "verse": 1,
+              "text": "CONSOLAOS, consolaos, pueblo mío, dice vuestro Dios."
+            },
+            {
+              "key": "Isa.40.2",
+              "verse": 2,
+              "text": "Hablad al corazón de Jerusalem: decidle á voces que su tiempo es ya cumplido, que su pecado es perdonado; que doble ha recibido de la mano de Jehová por todos sus pecados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "image": "session-10.webp",
+      "alt": "Simeón sostiene al niño Jesús en el templo, junto a Ana y sus padres.",
+      "connections": [
+        {
+          "reference": "Isaías 49:6",
+          "url": "https://ebible.org/spaRV1909/ISA49.htm#V6",
+          "verses": [
+            {
+              "key": "Isa.49.6",
+              "verse": 6,
+              "text": "Y dijo: Poco es que tú me seas siervo para levantar las tribus de Jacob, y para que restaures los asolamientos de Israel: también te dí por luz de las gentes, para que seas mi salud hasta lo postrero de la tierra."
+            }
+          ]
+        },
+        {
+          "reference": "Lucas 1:76–79",
+          "url": "https://ebible.org/spaRV1909/LUK01.htm#V76",
+          "verses": [
+            {
+              "key": "Luke.1.76",
+              "verse": 76,
+              "text": "Y tú, niño, profeta del Altísimo serás llamado; porque irás ante la faz del Señor, para aparejar sus caminos;"
+            },
+            {
+              "key": "Luke.1.77",
+              "verse": 77,
+              "text": "Dando conocimiento de salud á su pueblo, para remisión de sus pecados,"
+            },
+            {
+              "key": "Luke.1.78",
+              "verse": 78,
+              "text": "Por las entrañas de misericordia de nuestro Dios, con que nos visitó de lo alto el Oriente,"
+            },
+            {
+              "key": "Luke.1.79",
+              "verse": 79,
+              "text": "Para dar luz á los que habitan en tinieblas y en sombra de muerte; para encaminar nuestros pies por camino de paz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "image": "session-11.webp",
+      "alt": "Jesús, aún joven, conversa con los maestros en el templo de Jerusalén.",
+      "connections": [
+        {
+          "reference": "1 Samuel 2:26",
+          "url": "https://ebible.org/spaRV1909/1SA02.htm#V26",
+          "verses": [
+            {
+              "key": "1Sam.2.26",
+              "verse": 26,
+              "text": "Y el joven Samuel iba creciendo, y adelantando delante de Dios y delante de los hombres."
+            }
+          ]
+        },
+        {
+          "reference": "Lucas 1:32–35",
+          "url": "https://ebible.org/spaRV1909/LUK01.htm#V32",
+          "verses": [
+            {
+              "key": "Luke.1.32",
+              "verse": 32,
+              "text": "Este será grande, y será llamado Hijo del Altísimo: y le dará el Señor Dios el trono de David su padre:"
+            },
+            {
+              "key": "Luke.1.33",
+              "verse": 33,
+              "text": "Y reinará en la casa de Jacob por siempre; y de su reino no habrá fin."
+            },
+            {
+              "key": "Luke.1.34",
+              "verse": 34,
+              "text": "Entonces María dijo al ángel: ¿Cómo será esto? porque no conozco varón."
+            },
+            {
+              "key": "Luke.1.35",
+              "verse": 35,
+              "text": "Y respondiendo el ángel le dijo: El Espíritu Santo vendrá sobre ti, y la virtud del Altísimo te hará sombra; por lo cual también lo Santo que nacerá, será llamado Hijo de Dios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "image": "session-12.webp",
+      "alt": "Jesús ora junto a Juan en el Jordán mientras desciende una paloma.",
+      "connections": [
+        {
+          "reference": "Isaías 40:3–5",
+          "url": "https://ebible.org/spaRV1909/ISA40.htm#V3",
+          "verses": [
+            {
+              "key": "Isa.40.3",
+              "verse": 3,
+              "text": "Voz que clama en el desierto: Barred camino á Jehová: enderezad calzada en la soledad á nuestro Dios."
+            },
+            {
+              "key": "Isa.40.4",
+              "verse": 4,
+              "text": "Todo valle sea alzado, y bájese todo monte y collado; y lo torcido se enderece, y lo áspero se allane."
+            },
+            {
+              "key": "Isa.40.5",
+              "verse": 5,
+              "text": "Y manifestaráse la gloria de Jehová, y toda carne juntamente la verá; que la boca de Jehová habló."
+            }
+          ]
+        },
+        {
+          "reference": "Isaías 42:1–4",
+          "url": "https://ebible.org/spaRV1909/ISA42.htm#V1",
+          "verses": [
+            {
+              "key": "Isa.42.1",
+              "verse": 1,
+              "text": "HE aquí mi siervo, yo le sostendré; mi escogido, en quien mi alma toma contentamiento: he puesto sobre él mi espíritu, dará juicio á las gentes."
+            },
+            {
+              "key": "Isa.42.2",
+              "verse": 2,
+              "text": "No clamará, ni alzará, ni hará oir su voz en las plazas."
+            },
+            {
+              "key": "Isa.42.3",
+              "verse": 3,
+              "text": "No quebrará la caña cascada, ni apagará el pábilo que humeare: sacará el juicio á verdad."
+            },
+            {
+              "key": "Isa.42.4",
+              "verse": 4,
+              "text": "No se cansará, ni desmayará, hasta que ponga en la tierra juicio; y las islas esperarán su ley."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

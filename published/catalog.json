@@ -1,0 +1,114 @@
+{
+  "timezone": "Europe/Paris",
+  "lessons": [
+    {
+      "id": "luke-acts-01",
+      "number": 1,
+      "title": "Comentario pastoral · Semana 1 · 2 Samuel 7:8–16",
+      "passage": "2 Samuel 7:8–16",
+      "studyWeek": "2026-10-12",
+      "releaseAt": "2026-10-12T06:00:00+02:00",
+      "commentaryReleaseAt": "2026-10-11T00:00:00+02:00",
+      "status": "available"
+    },
+    {
+      "id": "luke-acts-02",
+      "number": 2,
+      "title": "Un gobernante diferente",
+      "passage": "Isaías 9:1–7",
+      "studyWeek": "2026-10-19",
+      "releaseAt": "2026-10-19T06:00:00+02:00",
+      "status": "awaiting-content"
+    },
+    {
+      "id": "luke-acts-03",
+      "number": 3,
+      "title": "Desde Belén",
+      "passage": "Miqueas 5:1–5a",
+      "studyWeek": "2026-10-26",
+      "releaseAt": "2026-10-26T06:00:00+01:00",
+      "status": "awaiting-content"
+    },
+    {
+      "id": "luke-acts-04",
+      "number": 4,
+      "title": "Salvación para las naciones",
+      "passage": "Isaías 49:1–6",
+      "studyWeek": "2026-11-02",
+      "releaseAt": "2026-11-02T06:00:00+01:00",
+      "status": "awaiting-content"
+    },
+    {
+      "id": "luke-acts-05",
+      "number": 5,
+      "title": "Zacarías y Elisabet: Dios comienza a actuar",
+      "passage": "Lucas 1:5–25",
+      "studyWeek": "2026-11-09",
+      "releaseAt": "2026-11-09T06:00:00+01:00",
+      "status": "awaiting-content"
+    },
+    {
+      "id": "luke-acts-06",
+      "number": 6,
+      "title": "Gabriel y María: el Rey recibe un nombre",
+      "passage": "Lucas 1:26–38",
+      "studyWeek": "2026-11-16",
+      "releaseAt": "2026-11-16T06:00:00+01:00",
+      "status": "awaiting-content"
+    },
+    {
+      "id": "luke-acts-07",
+      "number": 7,
+      "title": "El cántico de María: ella explica el momento",
+      "passage": "Lucas 1:39–56",
+      "studyWeek": "2026-11-23",
+      "releaseAt": "2026-11-23T06:00:00+01:00",
+      "status": "awaiting-content"
+    },
+    {
+      "id": "luke-acts-08",
+      "number": 8,
+      "title": "Un Rey en el mundo del César",
+      "passage": "Lucas 2:1–7",
+      "studyWeek": "2026-11-30",
+      "releaseAt": "2026-11-30T06:00:00+01:00",
+      "status": "awaiting-content"
+    },
+    {
+      "id": "luke-acts-09",
+      "number": 9,
+      "title": "El cielo explica Belén",
+      "passage": "Lucas 2:8–20",
+      "studyWeek": "2026-12-07",
+      "releaseAt": "2026-12-07T06:00:00+01:00",
+      "status": "awaiting-content"
+    },
+    {
+      "id": "luke-acts-10",
+      "number": 10,
+      "title": "Simeón y Ana: la espera se convierte en encuentro",
+      "passage": "Lucas 2:21–38",
+      "studyWeek": "2026-12-14",
+      "releaseAt": "2026-12-14T06:00:00+01:00",
+      "status": "awaiting-content"
+    },
+    {
+      "id": "luke-acts-11",
+      "number": 11,
+      "title": "El Hijo antes de su ministerio",
+      "passage": "Lucas 2:39–52",
+      "studyWeek": "2026-12-21",
+      "releaseAt": "2026-12-21T06:00:00+01:00",
+      "status": "awaiting-content"
+    },
+    {
+      "id": "luke-acts-12",
+      "number": 12,
+      "title": "El Hijo se presenta públicamente",
+      "passage": "Lucas 3:1–22",
+      "studyWeek": "2026-12-28",
+      "releaseAt": "2026-12-28T06:00:00+01:00",
+      "status": "awaiting-content"
+    }
+  ]
+}

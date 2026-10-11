@@ -1,0 +1,500 @@
+{
+  "version": 2,
+  "method": [
+    {
+      "title": "Observación",
+      "question": "¿Quiénes participan y qué sucede?"
+    },
+    {
+      "title": "Interpretación",
+      "question": "¿Cuál es el mensaje principal para quienes lo escucharon por primera vez?"
+    },
+    {
+      "title": "Aplicación",
+      "question": "¿Qué nos muestra esto acerca de Dios y cómo responderemos?"
+    }
+  ],
+  "sessions": [
+    {
+      "number": 1,
+      "bridgeQuestion": "Cuando los reyes de Israel fallan, ¿en qué clase de rey puede seguir esperando el pueblo?",
+      "hints": [
+        "Antes de David, Israel pide un rey como el de otras naciones. Observen las esperanzas que hay detrás de esa petición.",
+        "Más adelante, el reino enfrenta una división. Busquen lo que Dios todavía conserva de su promesa a David."
+      ],
+      "concordance": [
+        {
+          "source": "2Sam.7.8",
+          "ref": "1Sam.16.11-1Sam.16.12",
+          "reason": "Aquí llaman a David mientras cuida las ovejas. Esto da contexto al recordatorio de Dios sobre cómo comenzó su reinado."
+        },
+        {
+          "source": "2Sam.7.10",
+          "ref": "Amos.9.15",
+          "reason": "Ambos pasajes presentan al pueblo de Dios como una planta arraigada con seguridad. Comparen el lugar prometido y la amenaza de ser arrancados."
+        },
+        {
+          "source": "2Sam.7.12",
+          "ref": "Acts.2.30",
+          "reason": "Pedro recuerda el juramento de Dios acerca de un descendiente en el trono de David. Observen cómo usa esa promesa al hablar de Jesús."
+        },
+        {
+          "source": "2Sam.7.13",
+          "ref": "Luke.1.31-Luke.1.33",
+          "reason": "Las palabras de Gabriel vuelven al trono de David y a un reino sin fin. Escuchen cómo retoman el lenguaje de esta promesa."
+        },
+        {
+          "source": "2Sam.7.14",
+          "ref": "Heb.1.5",
+          "reason": "Hebreos cita la promesa de padre e hijo al hablar del Hijo. Comparen su uso aquí con la promesa real hecha a David."
+        },
+        {
+          "source": "2Sam.7.16",
+          "ref": "Isa.9.7",
+          "reason": "El trono de David y un reino sin fin aparecen de nuevo. La justicia y la rectitud describen el gobierno del rey que vendrá."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "bridgeQuestion": "¿Qué podrían pasar por alto quienes esperan al Rey que trae paz?",
+      "hints": [
+        "El pueblo busca orientación mientras aumenta la angustia. Esto da contexto a la luz prometida en el siguiente capítulo.",
+        "Más adelante en el capítulo, tanto los líderes como el pueblo se apartan de Dios. Observen cuán profunda es la necesidad de un gobernante diferente."
+      ],
+      "concordance": [
+        {
+          "source": "Isa.9.1",
+          "ref": "2Kgs.15.29",
+          "reason": "Este relato menciona los lugares del norte conquistados por Asiria. Ayuda a comprender el peso histórico de las palabras de Isaías sobre la oscuridad en Galilea."
+        },
+        {
+          "source": "Isa.9.2",
+          "ref": "Luke.1.78-Luke.1.79",
+          "reason": "Zacarías también habla de luz para quienes están en tinieblas y en sombra de muerte. Observen hacia dónde debe conducirlos esa luz."
+        },
+        {
+          "source": "Isa.9.4",
+          "ref": "Isa.10.26-Isa.10.27",
+          "reason": "Aquí vuelven las imágenes del yugo, la carga y Madián. Estas imágenes compartidas nos ayudan a reconocer la opresión que Isaías tiene presente."
+        },
+        {
+          "source": "Isa.9.5",
+          "ref": "Ps.46.9",
+          "reason": "Las armas son destruidas cuando termina la guerra. Comparen esa imagen con la armadura quemada y las vestiduras manchadas de sangre en Isaías."
+        },
+        {
+          "source": "Isa.9.6",
+          "ref": "Jer.23.5-Jer.23.6",
+          "reason": "Jeremías también describe a un gobernante de la familia de David que trae justicia y seguridad. Comparen su carácter con los títulos del niño anunciado por Isaías."
+        },
+        {
+          "source": "Isa.9.7",
+          "ref": "Luke.1.32-Luke.1.33",
+          "reason": "Gabriel habla del trono de David y de un reino que no terminará. Estas expresiones conectan su anuncio con la esperanza de Isaías."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "bridgeQuestion": "¿Hasta dónde podría llegar el cuidado del Rey pastor más allá de su propio pueblo?",
+      "hints": [
+        "El temor y el exilio están detrás de la promesa de rescate. Lean este pasaje para sentir la necesidad de un pastor.",
+        "David comienza entre las ovejas, lejos del centro de atención. Observen otro comienzo inesperado."
+      ],
+      "concordance": [
+        {
+          "source": "Mic.5.1",
+          "ref": "Lam.3.30",
+          "reason": "La imagen de una mejilla golpeada en humillación aparece en ambos textos. Comparen el sufrimiento de cada pasaje antes de seguir la promesa de Miqueas."
+        },
+        {
+          "source": "Mic.5.2",
+          "ref": "Matt.2.6",
+          "reason": "Mateo cita la profecía de Belén durante la búsqueda del niño. Observen cómo describe al gobernante como un pastor."
+        },
+        {
+          "source": "Mic.5.2",
+          "ref": "John.7.42",
+          "reason": "Al hablar del Cristo, la gente recuerda tanto la familia de David como Belén. Esto muestra la expectativa vinculada a la promesa de Miqueas."
+        },
+        {
+          "source": "Mic.5.3",
+          "ref": "Isa.10.20-Isa.10.21",
+          "reason": "Isaías habla de un remanente que vuelve a Dios. Comparen esa esperanza con los hermanos que regresan a Israel en Miqueas."
+        },
+        {
+          "source": "Mic.5.4",
+          "ref": "Isa.40.10-Isa.40.11",
+          "reason": "La fuerza y el pastoreo van juntos en ambos pasajes. Observen cómo el pastor poderoso cuida a los vulnerables."
+        },
+        {
+          "source": "Mic.5.5",
+          "ref": "Eph.2.14-Eph.2.17",
+          "reason": "Las palabras sobre la paz invitan a comparar: Miqueas dice que el gobernante será su paz, mientras Efesios describe la paz que Cristo trae."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "bridgeQuestion": "¿Cómo podría verse la esperanza mientras el pueblo espera que comience a cumplirse la promesa de Dios?",
+      "hints": [
+        "Sion se siente olvidada. La respuesta de Dios nos ayuda a escuchar la restauración como esperanza para personas en verdadera angustia.",
+        "La promesa a Abraham ya incluye a otras naciones. Observen hasta dónde debe llegar la bendición."
+      ],
+      "concordance": [
+        {
+          "source": "Isa.49.1",
+          "ref": "Jer.1.5",
+          "reason": "El llamado de Jeremías también comienza antes de su nacimiento y alcanza a las naciones. Comparen ese lenguaje sin suponer que ambos siervos tienen la misma tarea."
+        },
+        {
+          "source": "Isa.49.2",
+          "ref": "Isa.50.4",
+          "reason": "Ambos pasajes conectan la obra del siervo con sus palabras. Observen la diferencia entre la imagen de una espada afilada y una palabra que sostiene al cansado."
+        },
+        {
+          "source": "Isa.49.3",
+          "ref": "Isa.42.1",
+          "reason": "Otro pasaje del siervo habla del agrado de Dios y de una misión entre las naciones. Lean ambos retratos uno al lado del otro."
+        },
+        {
+          "source": "Isa.49.4",
+          "ref": "Gal.4.11",
+          "reason": "Pablo también teme que su trabajo haya sido en vano. Esta preocupación compartida nos ayuda a escuchar el desaliento del siervo, aunque el contexto sea diferente."
+        },
+        {
+          "source": "Isa.49.5",
+          "ref": "Rom.15.8",
+          "reason": "Pablo conecta el servicio de Cristo con la confirmación de las promesas a los padres de Israel. Compárenlo con la tarea del siervo de reunir a Israel."
+        },
+        {
+          "source": "Isa.49.6",
+          "ref": "Acts.13.47",
+          "reason": "Pablo y Bernabé citan la promesa de luz para las naciones. Es una conexión directa entre la misión del siervo y la historia de Hechos."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "bridgeQuestion": "¿Cómo podría la preparación para el Rey que viene cambiar lo que el pueblo espera de él?",
+      "hints": [
+        "Un mensajero viene antes del Señor, y su llegada trae purificación. Esto da contexto a la tarea de Juan.",
+        "La promesa habla de corazones que se vuelven. Observen qué clase de preparación necesita el pueblo."
+      ],
+      "concordance": [
+        {
+          "source": "Luke.1.5",
+          "ref": "1Chr.24.10",
+          "reason": "Abías aparece entre las divisiones sacerdotales. Este detalle sitúa el servicio de Zacarías dentro del orden de la adoración de Israel en el templo."
+        },
+        {
+          "source": "Luke.1.7",
+          "ref": "Gen.18.11",
+          "reason": "Abraham y Sara también llegan a la vejez sin el hijo prometido. Observen la limitación humana compartida detrás de estos nacimientos inesperados."
+        },
+        {
+          "source": "Luke.1.9",
+          "ref": "Exod.30.7-Exod.30.8",
+          "reason": "Las instrucciones para quemar incienso explican el servicio que Zacarías realiza en el templo cuando aparece el mensajero."
+        },
+        {
+          "source": "Luke.1.16",
+          "ref": "Mal.3.1",
+          "reason": "Malaquías promete un mensajero que prepara el camino. Esto da contexto al trabajo de Juan, que vuelve al pueblo hacia el Señor."
+        },
+        {
+          "source": "Luke.1.17",
+          "ref": "Mal.4.5-Mal.4.6",
+          "reason": "Gabriel retoma la promesa de Elías y del cambio de los corazones. Comparen las palabras para ver cómo se presenta la tarea de Juan."
+        },
+        {
+          "source": "Luke.1.25",
+          "ref": "Gen.30.22-Gen.30.23",
+          "reason": "Raquel también habla de cómo Dios quitó su afrenta al darle un hijo. Este lenguaje compartido nos ayuda a escuchar el alivio personal de Elisabet."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "bridgeQuestion": "¿Cómo podría el Rey prometido por Dios cambiar la vida de personas comunes?",
+      "hints": [
+        "Vuelvan a la promesa de una casa, un reino y un trono. Escuchen ese lenguaje en el anuncio de Gabriel.",
+        "Un niño es dado como señal en un tiempo de temor. Comparen esta promesa de la presencia de Dios con la escena de María."
+      ],
+      "concordance": [
+        {
+          "source": "Luke.1.27",
+          "ref": "Isa.7.14",
+          "reason": "El niño prometido y la virgen invitan a comparar. Lean la señal de Isaías en su propio contexto mientras consideran el relato de Lucas sobre María."
+        },
+        {
+          "source": "Luke.1.31",
+          "ref": "Matt.1.21",
+          "reason": "Mateo explica el nombre de Jesús al hablar de la salvación de los pecados. Esto aporta una pista sobre la misión del niño a quien Gabriel pone nombre."
+        },
+        {
+          "source": "Luke.1.32",
+          "ref": "2Sam.7.11-2Sam.7.13",
+          "reason": "La promesa de la casa y el trono de David está detrás del anuncio de Gabriel. Observen lo que se repite y lo que ahora se aclara."
+        },
+        {
+          "source": "Luke.1.33",
+          "ref": "Dan.7.13-Dan.7.14",
+          "reason": "Daniel también describe un reino que no pasará. Comparen su alcance entre las naciones con el reinado que Gabriel anuncia."
+        },
+        {
+          "source": "Luke.1.35",
+          "ref": "Matt.1.18",
+          "reason": "Mateo también identifica la obra del Espíritu Santo en el embarazo de María. Ambos relatos permiten comparar lo que se dice sobre el nacimiento de Jesús."
+        },
+        {
+          "source": "Luke.1.37",
+          "ref": "Gen.18.14",
+          "reason": "La pregunta sobre si algo es demasiado difícil para Dios acompaña la promesa a Sara. Ofrece un contexto anterior para la seguridad que expresa Gabriel."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "bridgeQuestion": "¿Dónde esperaríamos que un Rey como este llegara al mundo?",
+      "hints": [
+        "El cántico de Ana celebra cómo Dios levanta a los débiles. Escuchen las imágenes que vuelven en la alabanza de María.",
+        "Dios promete una relación duradera con los descendientes de Abraham. Esto da contexto al final del cántico de María."
+      ],
+      "concordance": [
+        {
+          "source": "Luke.1.41",
+          "ref": "Luke.1.15",
+          "reason": "La promesa anterior acerca de Juan y del Espíritu Santo nos prepara para la respuesta de Elisabet, llena del Espíritu, cuando llega María."
+        },
+        {
+          "source": "Luke.1.45",
+          "ref": "John.20.29",
+          "reason": "La fe y la bendición se relacionan en ambos pasajes. Comparen la confianza de María en la palabra de Dios con la bendición que Jesús describe."
+        },
+        {
+          "source": "Luke.1.46",
+          "ref": "1Sam.2.1-1Sam.2.10",
+          "reason": "El cántico de Ana también celebra cómo Dios levanta a los débiles y derriba a los orgullosos. Escuchen el movimiento compartido en ambos cánticos."
+        },
+        {
+          "source": "Luke.1.50",
+          "ref": "Ps.103.17-Ps.103.18",
+          "reason": "El salmo conecta la misericordia que permanece con quienes temen a Dios. Estas palabras compartidas sitúan la alabanza de María dentro de la adoración de Israel."
+        },
+        {
+          "source": "Luke.1.52",
+          "ref": "1Sam.2.6-1Sam.2.8",
+          "reason": "Ana canta sobre cómo Dios levanta al pobre y humilla a otros. Comparen ese cambio con las palabras de María sobre los poderosos y los humildes."
+        },
+        {
+          "source": "Luke.1.55",
+          "ref": "Gen.17.19",
+          "reason": "La promesa de Dios a Abraham menciona a Isaac y un pacto duradero. Esto da contexto al recuerdo de María de la misericordia a través de las generaciones."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "bridgeQuestion": "¿Qué podría ayudar al pueblo a ver algo más que un nacimiento común en Belén?",
+      "hints": [
+        "Belén es pequeña, pero de ella vendrá un gobernante que pastoreará al pueblo. Mantengan presente ese contraste al leer Lucas.",
+        "María ha cantado sobre los poderosos y los humildes. Sus palabras pueden ayudarnos a observar con más atención la escena del nacimiento."
+      ],
+      "concordance": [
+        {
+          "source": "Luke.2.1",
+          "ref": "Acts.11.28",
+          "reason": "Lucas usa el lenguaje del mundo habitado bajo otro emperador. Esto nos ayuda a notar el contexto romano más amplio del censo."
+        },
+        {
+          "source": "Luke.2.4",
+          "ref": "Mic.5.2",
+          "reason": "Miqueas nombra a Belén como el lugar de donde vendrá un gobernante. Comparen esa promesa con la ciudad a la que llegan José y María."
+        },
+        {
+          "source": "Luke.2.4",
+          "ref": "1Sam.16.1",
+          "reason": "Samuel es enviado a Isaí en Belén. Esta escena anterior explica la conexión de la ciudad con la familia de David."
+        },
+        {
+          "source": "Luke.2.5",
+          "ref": "Matt.1.18-Matt.1.19",
+          "reason": "Mateo también describe el compromiso de María y José durante el embarazo. Añade contexto personal al breve relato de Lucas sobre su viaje."
+        },
+        {
+          "source": "Luke.2.7",
+          "ref": "2Cor.8.9",
+          "reason": "Pablo habla de Cristo haciéndose pobre por otros. Comparen ese camino de humildad con las circunstancias sencillas del nacimiento del niño."
+        },
+        {
+          "source": "Luke.2.7",
+          "ref": "John.1.14",
+          "reason": "Juan describe al Verbo haciéndose carne y habitando entre nosotros. Lean esto junto a los detalles concretos de Lucas sobre un niño recién nacido."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "bridgeQuestion": "¿Qué podría ayudar al pueblo a reconocer la respuesta de Dios después de años de espera?",
+      "hints": [
+        "Se promete un niño cuyo gobierno trae paz. Escuchen esa esperanza en el anuncio de los ángeles.",
+        "El llamado al consuelo viene después del dolor y la culpa. Esto nos ayuda a escuchar por qué importa la noticia de un Salvador."
+      ],
+      "concordance": [
+        {
+          "source": "Luke.2.8",
+          "ref": "Ps.78.70-Ps.78.71",
+          "reason": "David fue llamado mientras cuidaba ovejas. Vale la pena notar este escenario compartido en un nacimiento anunciado cerca de la ciudad de David."
+        },
+        {
+          "source": "Luke.2.10",
+          "ref": "Isa.52.7",
+          "reason": "Isaías reúne buenas noticias, paz, salvación y el reinado de Dios. Estas palabras nos ayudan a escuchar con atención lo que anuncia el ángel."
+        },
+        {
+          "source": "Luke.2.11",
+          "ref": "Isa.9.6",
+          "reason": "El niño prometido por Isaías recibe títulos reales. Comparen esos nombres con las palabras del ángel sobre el niño nacido en la ciudad de David."
+        },
+        {
+          "source": "Luke.2.14",
+          "ref": "Rom.5.1",
+          "reason": "Romanos habla de paz con Dios por medio de Jesucristo. Esto ofrece otro contexto para explorar la paz que alaban los ángeles."
+        },
+        {
+          "source": "Luke.2.17",
+          "ref": "Luke.8.39",
+          "reason": "Más adelante, Jesús envía a un hombre sanado a contar lo que Dios ha hecho. Comparen esa respuesta con los pastores que comparten lo que oyeron y vieron."
+        },
+        {
+          "source": "Luke.2.19",
+          "ref": "Luke.2.51",
+          "reason": "Más adelante en el capítulo, María vuelve a guardar los acontecimientos en su corazón. Esta respuesta repetida nos ayuda a seguir su lugar en la historia de Lucas."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "bridgeQuestion": "¿Qué podríamos descubrir acerca de este niño mientras crece?",
+      "hints": [
+        "La misión del siervo alcanza más allá de Israel. Comparen ese alcance con las palabras de Simeón sobre el niño.",
+        "Zacarías menciona perdón, luz y paz. Estas palabras dan forma a la salvación que esperan Simeón y Ana."
+      ],
+      "concordance": [
+        {
+          "source": "Luke.2.21",
+          "ref": "Gen.17.12",
+          "reason": "El mandato de circuncidar al niño al octavo día explica el momento de esta escena dentro de la vida del pacto de Israel."
+        },
+        {
+          "source": "Luke.2.24",
+          "ref": "Lev.12.6-Lev.12.8",
+          "reason": "La ley permite ofrecer dos aves cuando una familia no puede pagar un cordero. Este detalle nos ayuda a entender la ofrenda de los padres de Jesús."
+        },
+        {
+          "source": "Luke.2.25",
+          "ref": "Isa.25.9",
+          "reason": "Isaías da palabras a quienes han esperado la salvación de Dios. Comparen su alegría con la larga espera de Simeón."
+        },
+        {
+          "source": "Luke.2.32",
+          "ref": "Isa.49.6",
+          "reason": "La misión del siervo incluye ser luz para las naciones. Las palabras de Simeón retoman esa esperanza mientras sostiene al niño."
+        },
+        {
+          "source": "Luke.2.34",
+          "ref": "Isa.8.14-Isa.8.15",
+          "reason": "Isaías describe una piedra con la que la gente tropieza. Comparen esa advertencia con las palabras de Simeón sobre caer y levantarse."
+        },
+        {
+          "source": "Luke.2.38",
+          "ref": "Luke.1.68",
+          "reason": "El cántico de Zacarías también celebra la redención del pueblo de Dios. Las palabras de Ana conectan la escena del templo con esa esperanza anterior."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "bridgeQuestion": "¿Cómo podría conocer quién es Jesús cambiar lo que esperamos que haga?",
+      "hints": [
+        "Samuel también crece en favor con Dios y con las personas. Comparen ese lenguaje conocido de la infancia con las palabras únicas de Jesús acerca de su Padre.",
+        "Recuerden la identidad anunciada antes del nacimiento de Jesús. Sus palabras en el templo añaden una nueva escena a esa historia."
+      ],
+      "concordance": [
+        {
+          "source": "Luke.2.40",
+          "ref": "1Sam.2.26",
+          "reason": "Samuel también crece en favor con Dios y con las personas. Comparen el lenguaje sobre la infancia, prestando atención a lo que distingue a Jesús."
+        },
+        {
+          "source": "Luke.2.41",
+          "ref": "Exod.12.14",
+          "reason": "El mandato de recordar la Pascua explica la fiesta que lleva a la familia de Jesús a Jerusalén año tras año."
+        },
+        {
+          "source": "Luke.2.46",
+          "ref": "Isa.50.4",
+          "reason": "Isaías describe la actitud de escuchar como un discípulo. Comparen esta imagen con Jesús escuchando y haciendo preguntas entre los maestros."
+        },
+        {
+          "source": "Luke.2.47",
+          "ref": "John.7.15",
+          "reason": "Más adelante, la gente se sorprende del conocimiento de Jesús. Esto ofrece otra escena de asombro ante su entendimiento."
+        },
+        {
+          "source": "Luke.2.49",
+          "ref": "John.4.34",
+          "reason": "Más adelante, Jesús habla de hacer la voluntad de quien lo envió. Comparen esa prioridad con sus palabras acerca de su Padre aquí."
+        },
+        {
+          "source": "Luke.2.51",
+          "ref": "Luke.2.19",
+          "reason": "La costumbre de María de guardar los acontecimientos en su corazón vuelve desde la escena del nacimiento. Observen cómo Lucas mantiene su reflexión a lo largo del capítulo."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "bridgeQuestion": "¿Qué podría suceder cuando este Rey se encuentre con un mundo que necesita cambiar?",
+      "hints": [
+        "Lean la profecía que cita Lucas. Observen el camino que se prepara y la amplitud de la salvación prometida.",
+        "El Espíritu reposa sobre un siervo que trae justicia con ternura. Mantengan este retrato en mente mientras comienza la obra pública de Jesús."
+      ],
+      "concordance": [
+        {
+          "source": "Luke.3.3",
+          "ref": "Acts.19.4",
+          "reason": "Pablo explica el bautismo de Juan como un llamado al arrepentimiento que apunta hacia Jesús. Esto sitúa a Juan dentro de la historia más amplia de Lucas–Hechos."
+        },
+        {
+          "source": "Luke.3.4",
+          "ref": "Isa.40.3-Isa.40.5",
+          "reason": "Lucas cita directamente esta profecía. Leer su contexto nos ayuda a escuchar por qué preparar el camino del Señor lleva una promesa de salvación."
+        },
+        {
+          "source": "Luke.3.8",
+          "ref": "Acts.26.20",
+          "reason": "Pablo también conecta el arrepentimiento con obras que corresponden a él. Comparen ese llamado con las respuestas prácticas que pide Juan."
+        },
+        {
+          "source": "Luke.3.11",
+          "ref": "Isa.58.7-Isa.58.11",
+          "reason": "Compartir comida y ropa también forma parte del llamado de Isaías a vivir fielmente. Estas acciones dan forma concreta al llamado de Juan al arrepentimiento."
+        },
+        {
+          "source": "Luke.3.16",
+          "ref": "Acts.1.5",
+          "reason": "Jesús vuelve al contraste entre el bautismo de Juan con agua y el bautismo con el Espíritu Santo. Esta conexión llega hasta el comienzo de Hechos."
+        },
+        {
+          "source": "Luke.3.22",
+          "ref": "Isa.42.1",
+          "reason": "El agrado de Dios en su siervo y el don del Espíritu aparecen juntos aquí. Comparen ese retrato con la voz y el Espíritu en el bautismo de Jesús."
+        }
+      ]
+    }
+  ],
+  "discussionNote": "¿Qué otras cosas relacionadas observan? Conversen y reflexionen con sus compañeros de estudio."
+}

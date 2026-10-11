@@ -1,0 +1,581 @@
+{
+  "timezone": "Europe/Paris",
+  "previewAllowed": false,
+  "preview": false,
+  "modules": [
+    {
+      "id": 1,
+      "releaseAt": "2026-11-09T00:00:00+01:00",
+      "released": false,
+      "available": true,
+      "readings": [],
+      "concepts": [
+        {
+          "title": "Dios cumple sus promesas",
+          "reference": "2 Samuel 7:8–16 · Lucas 1:26–38",
+          "week": 1,
+          "image": "concept-promises.webp",
+          "alt": "Un viajero anciano contempla un cielo lleno de estrellas, evocando la promesa de Dios a Abraham.",
+          "module": 1
+        },
+        {
+          "title": "El Rey y su reino",
+          "reference": "Isaías 9:1–7 · Miqueas 5:1–5a · Lucas 1:26–38",
+          "week": 2,
+          "image": "concept-kingdom.webp",
+          "alt": "Un pastor guía a su rebaño por una puerta abierta, ilustrando el cuidado del Rey prometido por su pueblo.",
+          "module": 1
+        },
+        {
+          "title": "Salvación para todas las naciones",
+          "reference": "Isaías 49:1–6 · Lucas 2:21–38",
+          "week": 4,
+          "image": "concept-nations.webp",
+          "module": 1,
+          "alt": "Viajeros de distintos pueblos se encuentran junto a un olivo frente al mar, como imagen de la salvación que llega a las naciones."
+        }
+      ],
+      "reading": {
+        "title": "El mundo está esperando",
+        "introduction": "",
+        "sections": [
+          {
+            "id": "theme-0",
+            "title": "Dios cumple sus promesas",
+            "image": "concept-promises.webp",
+            "alt": "Un viajero anciano contempla un cielo lleno de estrellas, evocando la promesa de Dios a Abraham.",
+            "blocks": [
+              {
+                "kind": "quote",
+                "text": "Y he aquí, concebirás en tu seno, y parirás un hijo, y llamarás su nombre JESUS. Este será grande, y será llamado Hijo del Altísimo: y le dará el Señor Dios el trono de David su padre: Y reinará en la casa de Jacob por siempre; y de su reino no habrá fin.",
+                "reference": "Lucas 1:31–33 · RV1909"
+              },
+              {
+                "kind": "paragraph",
+                "text": "En 2 Samuel 7, Dios promete tres cosas a David: una casa, es decir, una familia de reyes; un reino y un trono. Y usa tres veces una expresión que habla de permanencia."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Casa, reino, trono. La misma promesa que Dios dio a David mediante el profeta Natán vuelve ahora en el mensaje de Gabriel a María."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Lucas quiere que lo veamos con claridad. El Dios que hizo promesas a David es el mismo que ahora envía a Gabriel a Nazaret. Las promesas aguardaban, y este niño es su respuesta."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Observen lo que sucede. David quería construir una casa para Dios: un templo. Pero Dios responde, en cierto sentido: «No, yo construiré una casa para ti»: una familia de reyes. Dios no está negociando con David. La iniciativa viene completamente de Dios. Esto es gracia, un regalo que David no se ganó."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Miqueas vivió en la misma época que Isaías y añade un lugar: Belén. No Jerusalén, la capital, sino el pequeño pueblo de David. El gobernante que viene será pastor, como David lo fue."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Miqueas dice que las salidas de este gobernante «son desde el principio, desde los días del siglo». Muchos cristianos ven aquí una señal de que este gobernante existía antes de nacer. No es simplemente otro rey de la familia de David. Es el Hijo eterno de Dios entrando en nuestra historia."
+              },
+              {
+                "kind": "paragraph",
+                "text": "En Lucas 1, Gabriel reúne todos estos hilos. Jesús recibirá el trono de David, reinará para siempre y su reino nunca terminará. Lucas no está reuniendo versículos al azar. Nos muestra un solo plan: Dios lo comenzó con David, lo mantuvo vivo mediante los profetas y ahora llega en Jesús."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Dios cumple sus promesas. Este es el corazón del estudio. Los largos siglos entre David y Jesús pueden parecer silencio o fracaso, pero no lo fueron. Dios obraba mediante los profetas, el exilio y el lento declive de la familia real de David, siempre señalando hacia Jesús."
+              }
+            ],
+            "wordCount": 376
+          },
+          {
+            "id": "theme-1",
+            "title": "El Rey y su reino",
+            "image": "concept-kingdom.webp",
+            "alt": "Un pastor guía a su rebaño por una puerta abierta, ilustrando el cuidado del Rey prometido por su pueblo.",
+            "blocks": [
+              {
+                "kind": "quote",
+                "text": "Porque un niño nos es nacido, hijo nos es dado; y el principado sobre su hombro: y llamaráse su nombre Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz. Lo dilatado de su imperio y la paz no tendrán término, sobre el trono de David, y sobre su reino, disponiéndolo y confirmándolo en juicio y en justicia desde ahora para siempre. El celo de Jehová de los ejércitos hará esto.",
+                "reference": "Isaías 9:6–7 · RV1909"
+              },
+              {
+                "kind": "paragraph",
+                "text": "La palabra «reino» vuelve una y otra vez, y nunca se trata de un reino común. En 2 Samuel 7, será afirmado para siempre. En Isaías 9, no tendrá término. En Lucas 1, leemos: «de su reino no habrá fin»."
+              },
+              {
+                "kind": "paragraph",
+                "text": "El reino de Jesús es completamente diferente de los reinos humanos. Los reyes humanos suelen gobernar por la fuerza, recibir el poder por su familia y extender su territorio mediante la guerra. En cierto modo, el pueblo carga sobre sus espaldas el peso del poder del rey."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Isaías 9 invierte esa imagen: «el principado sobre su hombro». El pueblo no sostiene a este Rey. Este Rey sostiene a su pueblo."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Dios prometió a David un trono que duraría para siempre. Pero en la historia, el reino de David se dividió en dos, el pueblo fue llevado al exilio y, al final, ningún rey de su familia ocupaba el trono. Parecía que la promesa había fallado."
+              },
+              {
+                "kind": "paragraph",
+                "text": "La promesa nos deja esperando un Rey cuyo gobierno sea diferente de los reinos que lo rodean. ¿Cómo se hará visible un trono eterno entre personas cuyos gobernantes siguen fallándoles? Lucas nos invita a mantener esa esperanza mientras se desarrolla la historia."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Los cristianos entienden de distintas maneras el futuro de este reino. Pero todos coinciden en esto: Jesús es Rey ahora, y su reino nunca terminará."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Por eso importa tanto el nombre Príncipe de Paz. Es posible entender la palabra hebrea que Isaías usa para paz como integridad y plenitud, no solo como el fin de la guerra. Jesús trae esa paz: los pecados son perdonados, se hace justicia y las relaciones rotas son restauradas. Su reino comienza ahora en la vida de quienes confían en él, y durará para siempre."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Si Jesús es Rey de esta manera diferente, cambia nuestra relación con la autoridad. No servimos a un gobernante distante e indiferente. Pertenecemos a un reino cuyo Rey nos sirve primero. Cuando obedecemos a Cristo, no nos inclinamos ante la fuerza: respondemos al amor de quien nos sostiene."
+              },
+              {
+                "kind": "paragraph",
+                "text": "En la práctica, lideramos sirviendo, no controlando. Medimos el éxito por cuánto ayudamos a crecer a otros, no por cuánto acumulamos para nosotros. Y confiamos en que el reino de Cristo, aunque el mundo no lo vea, es más real y durará más que cualquier imperio."
+              }
+            ],
+            "wordCount": 451
+          },
+          {
+            "id": "theme-2",
+            "title": "Salvación para todas las naciones",
+            "image": "concept-nations.webp",
+            "alt": "Viajeros de distintos pueblos se encuentran junto a un olivo frente al mar, como imagen de la salvación que llega a las naciones.",
+            "blocks": [
+              {
+                "kind": "quote",
+                "text": "Ahora despides, Señor, á tu siervo, conforme á tu palabra, en paz; Porque han visto mis ojos tu salvación, La cual has aparejado en presencia de todos los pueblos; Luz para ser revelada á los Gentiles, y la gloria de tu pueblo Israel.",
+                "reference": "Lucas 2:29–32 · RV1909"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Observen cómo se amplía el círculo. En Isaías 49, el Siervo se relaciona primero con Israel: «Mi siervo eres, oh Israel». Su primera misión es hacia su propio pueblo: levantar las tribus de Jacob."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Luego el texto cambia de dirección. Eso no es suficiente. Dios dice que es poco, una tarea demasiado pequeña: «también te dí por luz de las gentes, para que seas mi salud hasta lo postrero de la tierra»."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Ahora escuchen a Simeón en Lucas 2. Sostiene al niño Jesús en sus brazos y dice: «han visto mis ojos tu salud… Luz para ser revelada á los Gentiles». Casi las mismas palabras aparecen en ambos pasajes. Simeón nos dice que Jesús es el Siervo del que habló Isaías."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Su misión tiene dos círculos, uno dentro del otro. Primero, llevará a Israel de regreso a Dios. Luego, será luz para todas las naciones."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Esta es una de las promesas más claras del Antiguo Testamento de que la salvación de Dios no es solo para un pueblo. Y no era una idea nueva. Mucho antes, Dios había prometido a Abraham que todas las familias de la tierra serían bendecidas por medio de él (Génesis 12:3)."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Lucas abre un horizonte más allá de Belén. La promesa ya es más amplia que una ciudad o un pueblo, pero todavía no hemos visto hasta dónde viajará su luz. ¿Qué puertas podrían abrirse mientras continúa la historia? Por ahora, llevamos esa expectativa a la siguiente escena."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Este pasaje cuestiona la idea de que el cristianismo sea una fe privada o la religión de una sola cultura. Desde los primeros momentos de la vida de Jesús, el evangelio es para todos. Esto transforma cómo recibimos a personas diferentes, con otras culturas, lenguas e historias. El evangelio no pertenece a un solo grupo."
+              },
+              {
+                "kind": "paragraph",
+                "text": "También nos recuerda que nuestro llamado, como el del Siervo, comienza en casa, pero no termina allí. Servimos a quienes están cerca y también miramos hacia afuera. Ser luz significa compartir lo que hemos recibido con quienes todavía no lo han visto."
+              }
+            ],
+            "wordCount": 383
+          }
+        ],
+        "questions": [],
+        "credit": "Enseñanza preparada para el Acto I y traducida al español. Cada tema se lee por separado, conservando abierto el desarrollo de la historia.",
+        "wordCount": 1210
+      },
+      "title": "El mundo está esperando"
+    },
+    {
+      "id": 2,
+      "releaseAt": "2026-11-30T00:00:00+01:00",
+      "released": false,
+      "available": true,
+      "readings": [],
+      "concepts": [
+        {
+          "title": "Esperar, escuchar y confiar",
+          "reference": "Lucas 1:5–56 · Lucas 2:21–38",
+          "week": 5,
+          "image": "concept-trusting.webp",
+          "alt": "Una mujer anciana, inspirada en Ana, espera en oración en un patio soleado del templo.",
+          "module": 2
+        }
+      ],
+      "reading": {
+        "title": "La promesa recibe un nombre",
+        "introduction": "",
+        "sections": [
+          {
+            "id": "theme-3",
+            "title": "Esperar, escuchar y confiar",
+            "image": "concept-trusting.webp",
+            "alt": "Una mujer anciana, inspirada en Ana, espera en oración en un patio soleado del templo.",
+            "blocks": [
+              {
+                "kind": "quote",
+                "text": "Mas el ángel le dijo: Zacarías, no temas; porque tu oración ha sido oída, y tu mujer Elisabet te parirá un hijo, y llamarás su nombre Juan. … Y dijo Zacarías al ángel: ¿En qué conoceré esto? porque yo soy viejo, y mi mujer avanzada en días. Y respondiendo el ángel le dijo: Yo soy Gabriel, que estoy delante de Dios; y soy enviado á hablarte, y á darte estas buenas nuevas. Y he aquí estarás mudo y no podrás hablar, hasta el día que esto sea hecho, por cuanto no creíste á mis palabras, las cuales se cumplirán á su tiempo.",
+                "reference": "Lucas 1:13; Lucas 1:18–20 · RV1909"
+              },
+              {
+                "kind": "quote",
+                "text": "Entonces María dijo al ángel: ¿Cómo será esto? porque no conozco varón. … Entonces María dijo: He aquí la sierva del Señor; hágase á mí conforme á tu palabra. Y el ángel partió de ella.",
+                "reference": "Lucas 1:34; Lucas 1:38 · RV1909"
+              },
+              {
+                "kind": "quote",
+                "text": "Y aconteció, que como oyó Elisabet la salutación de María, la criatura saltó en su vientre; y Elisabet fué llena del Espíritu Santo, Y exclamó á gran voz, y dijo: Bendita tú entre las mujeres, y bendito el fruto de tu vientre. … Y bienaventurada la que creyó, porque se cumplirán las cosas que le fueron dichas de parte del Señor.",
+                "reference": "Lucas 1:41–42; Lucas 1:45 · RV1909"
+              },
+              {
+                "kind": "quote",
+                "text": "Y he aquí, había un hombre en Jerusalem, llamado Simeón, y este hombre, justo y pío, esperaba la consolación de Israel: y el Espíritu Santo era sobre él. Y había recibido respuesta del Espíritu Santo, que no vería la muerte antes que viese al Cristo del Señor. Y vino por Espíritu al templo. Y cuando metieron al niño Jesús sus padres en el templo, para hacer por él conforme á la costumbre de la ley, Entonces él le tomó en sus brazos, y bendijo á Dios, y dijo: Ahora despides, Señor, á tu siervo, conforme á tu palabra, en paz; Porque han visto mis ojos tu salvación, … Estaba también allí Ana, profetisa, hija de Phanuel, de la tribu de Aser; la cual había venido en grande edad, y había vivido con su marido siete años desde su virginidad; Y era viuda de hasta ochenta y cuatro años, que no se apartaba del templo, sirviendo de noche y de día con ayunos y oraciones. Y ésta, sobreviniendo en la misma hora, juntamente confesaba al Señor, y hablaba de él á todos los que esperaban la redención en Jerusalem.",
+                "reference": "Lucas 2:25–30; Lucas 2:36–38 · RV1909"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Estas cinco personas nos muestran distintas respuestas a la palabra de Dios."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Zacarías duda y no puede hablar hasta que se cumple la promesa."
+              },
+              {
+                "kind": "paragraph",
+                "text": "María hace una pregunta honesta: «¿Cómo será esto?» Luego dice sí a Dios."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Elisabet, llena del Espíritu Santo, reconoce lo que Dios está haciendo y habla con alegría."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Simeón ha esperado que Dios consuele a su pueblo. Cuando por fin sostiene a Jesús, bendice a Dios."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Ana, viuda desde hace muchos años, adora en el templo día y noche. Llega justo cuando Jesús está allí y da gracias."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Observen algo importante: la palabra de Dios avanza sin depender de cómo respondan las personas. La duda de Zacarías no impide que nazca Juan. La promesa ya había sido hecha, y su incredulidad solo le cuesta la voz por un tiempo. La pregunta de María tampoco detiene a Gabriel. Él responde y continúa. La palabra de Dios no depende de cuán seguros nos sintamos."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Observen también dónde están estas personas. Zacarías sirve en el templo. Simeón entra en el templo. Ana nunca se aparta del templo. María está en la pequeña Nazaret. Todos están en sus lugares habituales cuando Dios habla. Lucas no nos presenta superhéroes, sino personas fieles que viven su vida cotidiana."
+              },
+              {
+                "kind": "heading",
+                "text": "Zacarías: pedir pruebas primero"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Lucas organiza sus dos primeros capítulos para mostrarnos dos respuestas. Zacarías no rechaza completamente a Dios, pero pide pruebas antes de creer. Primero quiere una garantía."
+              },
+              {
+                "kind": "paragraph",
+                "text": "La respuesta de Gabriel es clara. Zacarías quedará en silencio «por cuanto no creíste á mis palabras». No es un arrebato de ira. Es disciplina y también una señal apropiada: no podía hablar porque no quiso escuchar. Y la historia termina con gracia. Cuando nace Juan, se abre la boca de Zacarías y sus primeras palabras son de alabanza a Dios (Lucas 1:64)."
+              },
+              {
+                "kind": "heading",
+                "text": "María: confiar antes de entender"
+              },
+              {
+                "kind": "paragraph",
+                "text": "María nos muestra el otro camino. No entiende todo. Pregunta: «¿Cómo será esto?» Pero no exige pruebas antes de obedecer. Su respuesta es un modelo de fe: «He aquí la sierva del Señor; hágase á mí conforme á tu palabra»."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Los teólogos han señalado que la fe de María no era ciega. Tenía la palabra de Gabriel. Tenía una señal: el embarazo de su pariente Elisabet (Lucas 1:36). Y conocía la larga historia de la fidelidad de Dios a Israel. La fe recibe la palabra de Dios como verdadera y deja que dé forma a nuestra vida."
+              },
+              {
+                "kind": "heading",
+                "text": "Elisabet: ver a Dios obrando"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Elisabet ya ha visto a Dios cumplir su palabra en su propio cuerpo. Llena del Espíritu Santo, reconoce al Señor en el vientre de María y dice: «bienaventurada la que creyó, porque se cumplirán las cosas que le fueron dichas de parte del Señor». María creyó primero y después vio. La fe confía en la palabra de Dios antes de ver el resultado."
+              },
+              {
+                "kind": "heading",
+                "text": "Simeón y Ana: una obediencia perseverante"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Dios había dicho a Simeón que vería al Mesías antes de morir. Esperó, quizá durante muchos años, sin saber cuándo. Cuando Jesús finalmente llega, Simeón no se queja ni dice: «¡Por fin!» Bendice a Dios y dice que ahora puede irse en paz."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Ana había sido viuda por unos ochenta y cuatro años y nunca se apartaba del templo. Día y noche adoraba, ayunaba y oraba. No exigió que Dios viniera según su calendario. Simplemente estaba allí, fiel, cuando él vino."
+              },
+              {
+                "kind": "heading",
+                "text": "Recibir la palabra de Dios como palabra de Dios"
+              },
+              {
+                "kind": "paragraph",
+                "text": "La verdadera cuestión de este estudio es sencilla y profunda. ¿Recibimos la palabra de Dios como palabra de Dios, o pedimos garantías adicionales antes de confiar? Zacarías quiso una garantía y perdió la voz por un tiempo. María confió en una promesa que parecía imposible y llevó en su vientre al Hijo de Dios."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Todos vivimos en algún punto entre estas respuestas. A veces dudamos como Zacarías y queremos pruebas antes de comprometernos. A veces hacemos preguntas honestas como María y luego confiamos. A veces esperamos como Simeón y Ana durante años, sin saber cuándo responderá Dios."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Lucas muestra estas respuestas con honestidad y nos enseña adónde conduce cada una. Las preguntas honestas son bienvenidas. La duda no tiene que ser el final de la historia, como muestra el cántico de alabanza de Zacarías. Pero Lucas nos invita a caminar por la senda de una fe que descansa en la palabra de Dios, aun antes de ver."
+              }
+            ],
+            "wordCount": 1108
+          }
+        ],
+        "questions": [],
+        "credit": "Enseñanza preparada para el Acto I y traducida al español. Cada tema se lee por separado, conservando abierto el desarrollo de la historia.",
+        "wordCount": 1108
+      },
+      "title": "La promesa recibe un nombre"
+    },
+    {
+      "id": 3,
+      "releaseAt": "2026-12-28T00:00:00+01:00",
+      "released": false,
+      "available": true,
+      "readings": [],
+      "concepts": [
+        {
+          "title": "Dios se acerca con humildad",
+          "reference": "Lucas 1:26–38 · Lucas 2:1–20 · Lucas 2:39–52",
+          "week": 8,
+          "image": "concept-humility.webp",
+          "alt": "Jesús, aún niño, aprende junto a José en un taller humilde, como imagen de su verdadero crecimiento humano.",
+          "module": 3
+        }
+      ],
+      "reading": {
+        "title": "El Rey entra en el mundo",
+        "introduction": "",
+        "sections": [
+          {
+            "id": "theme-4",
+            "title": "Dios se acerca con humildad",
+            "image": "concept-humility.webp",
+            "alt": "Jesús, aún niño, aprende junto a José en un taller humilde, como imagen de su verdadero crecimiento humano.",
+            "blocks": [
+              {
+                "kind": "quote",
+                "text": "Y ACONTECIÓ en aquellos días que salió edicto de parte de Augusto César, que toda la tierra fuese empadronada. … Y subió José de Galilea, de la ciudad de Nazaret, á Judea, á la ciudad de David, que se llama Bethlehem, por cuanto era de la casa y familia de David; Para ser empadronado con María su mujer, desposada con él, la cual estaba en cinta. Y aconteció que estando ellos allí, se cumplieron los días en que ella había de parir. Y parió á su hijo primogénito, y le envolvió en pañales, y acostóle en un pesebre, porque no había lugar para ellos en el mesón.",
+                "reference": "Lucas 2:1; Lucas 2:4–7 · RV1909"
+              },
+              {
+                "kind": "quote",
+                "text": "Y aconteció que como los ángeles se fueron de ellos al cielo, los pastores dijeron los unos á los otros: Pasemos pues hasta Bethlehem, y veamos esto que ha sucedido, que el Señor nos ha manifestado. Y vinieron apriesa, y hallaron á María, y á José, y al niño acostado en el pesebre. … Y se volvieron los pastores glorificando y alabando á Dios de todas las cosas que habían oído y visto, como les había sido dicho.",
+                "reference": "Lucas 2:15–16; Lucas 2:20 · RV1909"
+              },
+              {
+                "kind": "quote",
+                "text": "Mas el ángel les dijo: No temáis; porque he aquí os doy nuevas de gran gozo, que será para todo el pueblo: Que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor. … Gloria en las alturas á Dios, y en la tierra paz, buena voluntad para con los hombres.",
+                "reference": "Lucas 2:10–11; Lucas 2:14 · RV1909"
+              },
+              {
+                "kind": "quote",
+                "text": "El pueblo que andaba en tinieblas vió gran luz: los que moraban en tierra de sombra de muerte, luz resplandeció sobre ellos. … Porque un niño nos es nacido, hijo nos es dado; y el principado sobre su hombro: y llamaráse su nombre Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz.",
+                "reference": "Isaías 9:2; Isaías 9:6 · RV1909"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Observen los detalles que Lucas escoge. Jesús es acostado en un pesebre. No hay lugar para ellos en el mesón. Los primeros visitantes son pastores, personas de posición humilde en aquella sociedad. La noticia llega a trabajadores sencillos en el campo, en medio de la noche."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Sin embargo, el mensaje no tiene nada de pequeño. El ángel llama a este bebé «Salvador» y «Cristo el Señor», y los ángeles anuncian «en la tierra paz». Las verdades más elevadas acerca de Dios se pronuncian en el lugar más humilde."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Lucas también pone dos mundos uno al lado del otro. De un lado está el imperio. César Augusto ordena empadronar al mundo entero. Del otro hay una pareja joven. Viajan para registrarse y la madre da a luz en una ciudad llena de gente. El decreto del emperador, hecho para contar y cobrar impuestos a su pueblo, es precisamente lo que lleva a José y María a Belén, el lugar del que Miqueas había dicho que vendría el gobernante."
+              },
+              {
+                "kind": "heading",
+                "text": "La humildad es el centro"
+              },
+              {
+                "kind": "paragraph",
+                "text": "El nacimiento humilde de Jesús no es un detalle menor. Es el corazón de la historia. En el mundo antiguo, los dioses y la humildad no iban juntos. Los dioses no se hacían pobres, no dormían donde comían los animales ni dependían de una madre humana. La encarnación rompe completamente ese patrón. Dios no desciende como un rey conquistador, sino como un bebé indefenso."
+              },
+              {
+                "kind": "heading",
+                "text": "Dios fuerte en el cuerpo de un bebé"
+              },
+              {
+                "kind": "paragraph",
+                "text": "El Evangelio de Juan dice: «Y aquel Verbo fué hecho carne, y habitó entre nosotros» (Juan 1:14). En Lucas vemos cómo fue eso. La carne era el cuerpo de un recién nacido, y su primera cama fue un pesebre. Jesús comenzó su vida en la tierra sin poder hablar ni caminar, dependiendo por completo del cuidado humano. Aquel llamado «Dios fuerte» (Isaías 9:6) aún no podía levantar su propia cabeza."
+              },
+              {
+                "kind": "heading",
+                "text": "Dios levanta a los humildes"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Lucas conecta este nacimiento humilde con el cántico de María: «Quitó los poderosos de los tronos, y levantó á los humildes» (Lucas 1:52). El pesebre es la primera imagen de esto. El Dios poderoso nace de una joven de familia sencilla, en una pequeña ciudad. Los orgullosos son pasados por alto y los pastores son invitados."
+              },
+              {
+                "kind": "heading",
+                "text": "El escándalo de la encarnación"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Los teólogos llaman a esto «el escándalo de la encarnación». Un escándalo es algo que sorprende, algo que parece equivocado a los ojos humanos. Que el Dios eterno se haga un bebé en un pesebre pone al revés nuestras ideas sobre el poder."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Si Dios se acerca con humildad, entonces la humildad no es una debilidad que debemos corregir. Es una manera de estar cerca de Dios. A menudo pensamos que debemos subir de posición, ingresos o éxito para merecer su atención. La encarnación muestra lo contrario. Dios viene a quienes están abajo, no a quienes se creen superiores."
+              },
+              {
+                "kind": "paragraph",
+                "text": "En la vida diaria, esto significa que podemos servir a Dios en lugares pequeños que nadie nota. Recibimos a las personas porque están ahí, no porque sean importantes. Y medimos nuestra vida por la profundidad de nuestro amor, no por la altura que alcanzamos."
+              }
+            ],
+            "wordCount": 817
+          }
+        ],
+        "questions": [],
+        "credit": "Enseñanza preparada para el Acto I y traducida al español. Cada tema se lee por separado, conservando abierto el desarrollo de la historia.",
+        "wordCount": 817
+      },
+      "title": "El Rey entra en el mundo"
+    },
+    {
+      "id": 4,
+      "releaseAt": "2027-01-04T00:00:00+01:00",
+      "released": false,
+      "available": true,
+      "readings": [],
+      "concepts": [
+        {
+          "title": "El Hijo y el Espíritu",
+          "reference": "Lucas 1:26–38 · Lucas 2:21–38 · Lucas 3:1–22",
+          "week": 12,
+          "image": "concept-son-spirit.webp",
+          "module": 4,
+          "alt": "Jesús ora en el Jordán junto a Juan mientras desciende una paloma, ilustrando su bautismo en Lucas 3."
+        }
+      ],
+      "reading": {
+        "title": "Treinta años después…",
+        "introduction": "",
+        "sections": [
+          {
+            "id": "theme-5",
+            "title": "El Hijo y el Espíritu",
+            "image": "concept-son-spirit.webp",
+            "alt": "Jesús ora en el Jordán junto a Juan mientras desciende una paloma, ilustrando su bautismo en Lucas 3.",
+            "blocks": [
+              {
+                "kind": "quote",
+                "text": "Este será grande, y será llamado Hijo del Altísimo: y le dará el Señor Dios el trono de David su padre: … Y respondiendo el ángel le dijo: El Espíritu Santo vendrá sobre ti, y la virtud del Altísimo te hará sombra; por lo cual también lo Santo que nacerá, será llamado Hijo de Dios.",
+                "reference": "Lucas 1:32; Lucas 1:35 · RV1909"
+              },
+              {
+                "kind": "quote",
+                "text": "Y el niño crecía, y fortalecíase, y se henchía de sabiduría; y la gracia de Dios era sobre él.",
+                "reference": "Lucas 2:40 · RV1909"
+              },
+              {
+                "kind": "quote",
+                "text": "Y cuando le vieron, se maravillaron; y díjole su madre: Hijo, ¿por qué nos has hecho así? He aquí, tu padre y yo te hemos buscado con dolor. Entonces él les dice: ¿Qué hay? ¿por qué me buscabais? ¿No sabíais que en los negocios de mi Padre me conviene estar?",
+                "reference": "Lucas 2:48–49 · RV1909"
+              },
+              {
+                "kind": "quote",
+                "text": "Respondió Juan, diciendo á todos: Yo, á la verdad, os bautizo en agua; mas viene quien es más poderoso que yo, de quien no soy digno de desatar la correa de sus zapatos: él os bautizará en Espíritu Santo y fuego; … Y descendió el Espíritu Santo sobre él en forma corporal, como paloma, y fué hecha una voz del cielo que decía: Tú eres mi Hijo amado, en ti me he complacido.",
+                "reference": "Lucas 3:16; Lucas 3:22 · RV1909"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Lucas nos muestra quién es Jesús paso a paso, una capa a la vez. En Lucas 1:32, Gabriel lo llama «Hijo del Altísimo». En Lucas 1:35 explica que el Espíritu Santo y el poder del Altísimo harán posible este embarazo y que, por eso, el niño «será llamado Hijo de Dios»."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Estos dos títulos están relacionados, pero no son iguales. «Hijo del Altísimo» señala a Jesús como el Rey de la familia de David. «Hijo de Dios» señala su procedencia: Dios mismo."
+              },
+              {
+                "kind": "paragraph",
+                "text": "En Lucas 2:40 vemos su lado humano. El niño crece, se fortalece y se llena de sabiduría. Luego, a los doce años, Jesús dice algo sorprendente acerca de los asuntos de su Padre. María acaba de decir «tu padre y yo», refiriéndose a José. Jesús señala con respeto a otro Padre: Dios, cuya casa es el templo."
+              },
+              {
+                "kind": "paragraph",
+                "text": "En su bautismo, en Lucas 3, todo se une. El Espíritu Santo desciende sobre él «en forma corporal, como paloma». Una voz del cielo dice: «Tú eres mi Hijo amado, en ti me he complacido». Es la primera vez en Lucas que Dios Padre habla directamente de quién es Jesús."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Observen también las palabras de Juan el Bautista. Él no es el Cristo. Dice que ni siquiera es digno de desatar el calzado de Jesús. Juan prepara el camino. Jesús es el camino."
+              },
+              {
+                "kind": "heading",
+                "text": "De un título real al propio Hijo de Dios"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Lucas escoge sus palabras con gran cuidado. En el Antiguo Testamento, Dios hablaba del rey de la familia de David como su hijo. Acerca del hijo de David dijo: «Yo le seré á él padre, y él me será á mí hijo» (2 Samuel 7:14). Cuando un nuevo rey comenzaba a reinar, era como si Dios lo adoptara."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Pero en Lucas 1:35 el significado es mucho más profundo. Jesús no es Hijo de Dios por adopción ni por una ceremonia real. Es Hijo de Dios por naturaleza, por quien siempre ha sido. Su concepción por el Espíritu Santo, un verdadero milagro, lo muestra."
+              },
+              {
+                "kind": "heading",
+                "text": "Un primer vistazo a la Trinidad"
+              },
+              {
+                "kind": "paragraph",
+                "text": "En las palabras de Gabriel a María ya encontramos al Padre, el Altísimo; al Hijo, Jesús; y al Espíritu Santo. El Espíritu viene sobre María, el poder del Altísimo la cubre y el niño es llamado Hijo de Dios. Lucas no explica aquí toda la doctrina de la Trinidad, pero este pasaje forma parte de su fundamento bíblico."
+              },
+              {
+                "kind": "heading",
+                "text": "Un muchacho que sabe quién es"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Cuando Jesús habla a los doce años de los asuntos de su Padre, muestra que sabe quién es, aun antes de que otros lo entiendan. Lucas nos dice que María y José «no entendieron las palabras que les habló» (Lucas 2:50). Jesús sabe que Dios es su Padre de una manera única y que su lugar está en la casa de su Padre."
+              },
+              {
+                "kind": "heading",
+                "text": "El Padre, el Hijo y el Espíritu juntos"
+              },
+              {
+                "kind": "paragraph",
+                "text": "El bautismo completa el cuadro. Juan anuncia que Jesús, no Juan, bautizará con el Espíritu Santo y fuego. Luego el Espíritu desciende de una forma que las personas pueden ver y se escucha la voz del Padre. El Padre habla, el Espíritu desciende y el Hijo es identificado. Los tres están presentes en un mismo momento."
+              },
+              {
+                "kind": "heading",
+                "text": "La Trinidad en el bautismo de Jesús"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Lucas 3:21–22 es como una pequeña ventana a la Trinidad: un solo Dios en tres personas, todas presentes juntas. El Padre habla desde el cielo. El Espíritu desciende como una paloma. El Hijo está orando, listo para comenzar su misión."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Casi trescientos años después, en el Concilio de Nicea del año 325, la iglesia expresó esta verdad con palabras cuidadosas. Confesó que Jesús es verdadero Dios, de la misma naturaleza que el Padre. Pero el fundamento ya estaba aquí, en la historia de Lucas."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Si Jesús es Hijo de Dios por naturaleza, no por logros ni por adopción sino por quien es, nuestra relación con él es más que admiración por un gran maestro. Es una respuesta a Dios mismo. Jesús no es alguien que encontró a Dios. Es Dios que vino a encontrarnos."
+              },
+              {
+                "kind": "paragraph",
+                "text": "El Espíritu Santo está presente desde el comienzo, en la concepción de Jesús y aquí en su bautismo. Su obra forma parte de la historia de la salvación. Mientras Jesús se prepara para comenzar, Lucas nos deja mirando hacia adelante: ¿adónde llevará el Espíritu a este Hijo y quiénes serán atraídos a su historia?"
+              }
+            ],
+            "wordCount": 923
+          }
+        ],
+        "questions": [],
+        "credit": "Enseñanza preparada para el Acto I y traducida al español. Cada tema se lee por separado, conservando abierto el desarrollo de la historia.",
+        "wordCount": 923
+      },
+      "title": "Treinta años después…"
+    }
+  ],
+  "review": true
+}
