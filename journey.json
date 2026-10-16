@@ -14,7 +14,7 @@
   "sessions": [
     {
       "number": 1,
-      "image": "session-01.webp",
+      "image": "commentary-week-01.webp",
       "alt": "David ora junto a Natán cerca del santuario, con Jerusalén y las colinas de pastoreo al fondo.",
       "connections": [
         {
@@ -54,7 +54,8 @@
             }
           ]
         }
-      ]
+      ],
+      "commentaryTitle": "El Rey que vive y reina para siempre"
     },
     {
       "number": 2,
