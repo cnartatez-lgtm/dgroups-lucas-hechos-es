@@ -1,11 +1,11 @@
-import {commentaryPreface,commentaryAuthority,commentaryIntroduction} from './commentary-intro.js?v=es-595074160468';
-import {initMotion,motionEnabled,wireSceneMotion} from './motion.js?v=es-595074160468';
-import {selectStoryTopic,wireFrames} from './presentation.js?v=es-595074160468';
-import {pastoralIntroduction} from './pastoral.js?v=es-595074160468';
-import {concepts,glossary,analyze,groupSessions} from './study.js?v=es-595074160468';
-import {glossaryForWeek} from './weekly-vocabulary.js?v=es-595074160468';
-import {resources,methodGuide} from './resources.js?v=es-595074160468';
-import {parseProgress,weekOpen,eligibleProgress,toggleCompleted,moduleCompleted,storyOpen} from './progress.js?v=es-595074160468';
+import {commentaryPreface,commentaryAuthority,commentaryIntroduction} from './commentary-intro.js?v=es-14ee5477db62';
+import {initMotion,motionEnabled,wireSceneMotion} from './motion.js?v=es-14ee5477db62';
+import {selectStoryTopic,wireFrames} from './presentation.js?v=es-14ee5477db62';
+import {pastoralIntroduction} from './pastoral.js?v=es-14ee5477db62';
+import {concepts,glossary,analyze,groupSessions} from './study.js?v=es-14ee5477db62';
+import {glossaryForWeek} from './weekly-vocabulary.js?v=es-14ee5477db62';
+import {resources,methodGuide} from './resources.js?v=es-14ee5477db62';
+import {parseProgress,weekOpen,eligibleProgress,toggleCompleted,moduleCompleted,storyOpen} from './progress.js?v=es-14ee5477db62';
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const paragraphs=s=>String(s||'').split(/\n\s*\n/).filter(Boolean).map(p=>`<p>${esc(p).replace(/\n/g,'<br>')}</p>`).join('');
@@ -176,7 +176,7 @@ async function refreshReleases(){
 }
 window.addEventListener('focus',refreshReleases);
 setInterval(()=>{if(!document.hidden)refreshReleases()},60000);
-async function start(){try{[curriculum,bible,catalog,journey,weeklyStudy]=await Promise.all([fetchJSON('./curriculum.json'),fetchJSON('./data.json'),fetchJSON($('meta[name="lesson-catalog"]').content,{cache:'no-store'}),fetchJSON('./journey.json'),fetchJSON('./weekly-study.json',{cache:'no-store'})]);await loadReflections();completed=readProgress();if(curriculum.modules.some(m=>storyAvailable(m.id)))await ensureStories();go(location.hash.slice(1)||'introduction',false);}catch{$('#view').innerHTML='<div class="error"><h2>No se pudo abrir el estudio</h2><p>Revisa tu conexión y vuelve a cargar la página.</p><button id="retry" class="primary-button">Intentar de nuevo</button></div>';$('#retry').onclick=start}}
+async function start(){try{[curriculum,bible,catalog,journey,weeklyStudy]=await Promise.all([fetchJSON('./curriculum.json?v=20261023-week2'),fetchJSON('./data.json'),fetchJSON($('meta[name="lesson-catalog"]').content,{cache:'no-store'}),fetchJSON('./journey.json?v=20261023-week2'),fetchJSON('./weekly-study.json',{cache:'no-store'})]);await loadReflections();completed=readProgress();if(curriculum.modules.some(m=>storyAvailable(m.id)))await ensureStories();go(location.hash.slice(1)||'introduction',false);}catch{$('#view').innerHTML='<div class="error"><h2>No se pudo abrir el estudio</h2><p>Revisa tu conexión y vuelve a cargar la página.</p><button id="retry" class="primary-button">Intentar de nuevo</button></div>';$('#retry').onclick=start}}
 start();
 
 

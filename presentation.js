@@ -1,4 +1,4 @@
-import {motionEnabled} from './motion.js?v=es-595074160468';
+import {motionEnabled} from './motion.js?v=es-14ee5477db62';
 // A topic is a self-contained reading, never a doorway into the full module.
 export function selectStoryTopic(reading, sectionId) {
  const section=reading?.sections?.find(s=>s.id===sectionId);
