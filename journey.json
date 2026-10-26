@@ -124,8 +124,8 @@
     },
     {
       "number": 3,
-      "image": "session-03.webp",
-      "alt": "Un pastor conduce su rebaño cerca de la pequeña Belén entre las colinas de Judea.",
+      "image": "micah-05-shepherd-of-peace-20261023.webp",
+      "alt": "Escena simbólica del Pastor prometido: un pastor de Oriente Medio sostiene a un cordero herido junto a una madre negra, su hijo y un anciano, con Belén a la luz del amanecer.",
       "connections": [
         {
           "reference": "Miqueas 4:9–10",
@@ -159,7 +159,8 @@
             }
           ]
         }
-      ]
+      ],
+      "commentaryTitle": "El Rey que es nuestra paz"
     },
     {
       "number": 4,

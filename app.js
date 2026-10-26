@@ -176,7 +176,7 @@ async function refreshReleases(){
 }
 window.addEventListener('focus',refreshReleases);
 setInterval(()=>{if(!document.hidden)refreshReleases()},60000);
-async function start(){try{[curriculum,bible,catalog,journey,weeklyStudy]=await Promise.all([fetchJSON('./curriculum.json?v=20261023-week2'),fetchJSON('./data.json'),fetchJSON($('meta[name="lesson-catalog"]').content,{cache:'no-store'}),fetchJSON('./journey.json?v=20261023-week2-art'),fetchJSON('./weekly-study.json',{cache:'no-store'})]);await loadReflections();completed=readProgress();if(curriculum.modules.some(m=>storyAvailable(m.id)))await ensureStories();go(location.hash.slice(1)||'introduction',false);}catch{$('#view').innerHTML='<div class="error"><h2>No se pudo abrir el estudio</h2><p>Revisa tu conexión y vuelve a cargar la página.</p><button id="retry" class="primary-button">Intentar de nuevo</button></div>';$('#retry').onclick=start}}
+async function start(){try{[curriculum,bible,catalog,journey,weeklyStudy]=await Promise.all([fetchJSON('./curriculum.json?v=week03-20261026'),fetchJSON('./data.json'),fetchJSON($('meta[name="lesson-catalog"]').content,{cache:'no-store'}),fetchJSON('./journey.json?v=week03-20261026'),fetchJSON('./weekly-study.json',{cache:'no-store'})]);await loadReflections();completed=readProgress();if(curriculum.modules.some(m=>storyAvailable(m.id)))await ensureStories();go(location.hash.slice(1)||'introduction',false);}catch{$('#view').innerHTML='<div class="error"><h2>No se pudo abrir el estudio</h2><p>Revisa tu conexión y vuelve a cargar la página.</p><button id="retry" class="primary-button">Intentar de nuevo</button></div>';$('#retry').onclick=start}}
 start();
 
 
