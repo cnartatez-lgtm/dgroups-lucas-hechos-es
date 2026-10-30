@@ -1,8 +1,5 @@
-User-agent: WhatsApp
-User-agent: facebookexternalhit
-User-agent: Facebot
-User-agent: Twitterbot
-Allow: /
-
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /.github/
+
+Sitemap: https://cnartatez-lgtm.github.io/dgroups-lucas-hechos-es/sitemap.xml

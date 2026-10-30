@@ -1,11 +1,11 @@
-import {commentaryPreface,commentaryAuthority,commentaryIntroduction} from './commentary-intro.js?v=es-78f15d0be540';
-import {initMotion,motionEnabled,wireSceneMotion} from './motion.js?v=es-78f15d0be540';
-import {selectStoryTopic,wireFrames} from './presentation.js?v=es-78f15d0be540';
-import {pastoralIntroduction} from './pastoral.js?v=es-78f15d0be540';
-import {concepts,glossary,analyze,groupSessions} from './study.js?v=es-78f15d0be540';
-import {glossaryForWeek} from './weekly-vocabulary.js?v=es-78f15d0be540';
-import {resources,methodGuide} from './resources.js?v=es-78f15d0be540';
-import {parseProgress,weekOpen,eligibleProgress,toggleCompleted,moduleCompleted,storyOpen} from './progress.js?v=es-78f15d0be540';
+import {commentaryPreface,commentaryAuthority,commentaryIntroduction} from './commentary-intro.js?v=es-7e6356c3f8fe';
+import {initMotion,motionEnabled,wireSceneMotion} from './motion.js?v=es-7e6356c3f8fe';
+import {selectStoryTopic,wireFrames} from './presentation.js?v=es-7e6356c3f8fe';
+import {pastoralIntroduction} from './pastoral.js?v=es-7e6356c3f8fe';
+import {concepts,glossary,analyze,groupSessions} from './study.js?v=es-7e6356c3f8fe';
+import {glossaryForWeek} from './weekly-vocabulary.js?v=es-7e6356c3f8fe';
+import {resources,methodGuide} from './resources.js?v=es-7e6356c3f8fe';
+import {parseProgress,weekOpen,eligibleProgress,toggleCompleted,moduleCompleted,storyOpen} from './progress.js?v=es-7e6356c3f8fe';
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const paragraphs=s=>String(s||'').split(/\n\s*\n/).filter(Boolean).map(p=>`<p>${esc(p).replace(/\n/g,'<br>')}</p>`).join('');
@@ -17,7 +17,7 @@ const commentaryParagraphs=s=>String(s||'').split(/\n\s*\n/).filter(Boolean).map
  return text;
 }).join('<br>')}</p>`).join('');
 const storage={get(k,f){try{return localStorage.getItem('lucas-hechos-es-'+k)||f}catch{return f}},set(k,v){try{localStorage.setItem('lucas-hechos-es-'+k,v)}catch{}}};
-let commentaryTextSize=Math.min(26,Math.max(14,Number(storage.get('commentary-size',14))||14));
+let commentaryTextSize=Math.min(26,Math.max(14,Number(storage.get('commentary-size',16))||16));
 function commentaryTextControls(){
  const dialog=$('#detail');dialog.classList.add('commentary-reader');
  const controls=document.createElement('div');controls.className='commentary-font-controls';
@@ -116,7 +116,7 @@ function studiesView(){const selected=session();return progressSummary()+`<div c
  return `<article class="pastoral-week-row ${current?'current':''}" aria-label="${weekLabel(s.date)}"><button class="pastoral-week-select" data-pastoral-week="${s.number}" aria-pressed="${current}" aria-label="Seleccionar ${weekLabel(s.date)}: ${esc(sessionTitle(s))}">${sessionArt(s,true)}<span class="pastoral-week-copy"><span class="schedule-date">${weekLabel(s.date)}</span><strong>${esc(sessionTitle(s))}</strong><small>${esc(s.passage)}</small></span></button><div class="pastoral-week-action">${available?`<button class="primary-button" data-lesson="${s.id}" aria-label="Leer comentarios de ${weekLabel(s.date)}">Leer comentarios ↗</button>`:`<span class="pastoral-week-status">${icon('lock')}${open?'Comentario próximamente':esc(openingLabel(s))}</span>`}</div></article>`;
  }).join('')}</div></section>${future()}`;}
 function resourcesView(){return heading('06','Recursos externos','Elige la herramienta que te ayude con la pregunta que estás explorando.','11 RECURSOS')+`<section class="resource-intro"><h3>Comienza con la Escritura. Después explora.</h3><p>Estos enlaces reúnen las herramientas de las dos páginas de la guía de recursos bíblicos D-Groups. Úsalos después de leer el pasaje por ti mismo y lleva las preguntas pendientes a tu grupo. Algunos sitios externos ofrecen contenido en inglés; su idioma depende de cada proveedor.</p></section>${['Contexto histórico','Estudiar el pasaje','Lugares y palabras'].map((category,i)=>`<section class="resource-section"><h3>${category}</h3><div class="resource-grid">${resources.filter(r=>r[2]===category).map(([name,url,,copy])=>`<a class="resource-card" href="${url}" target="_blank" rel="noopener noreferrer"><h4 class="resource-brand">${esc(name.split(' · ')[0])}${name.includes(' · ')?`<span class="resource-service">${esc(name.split(' · ')[1])}</span>`:''}</h4><p>${copy}</p><small>${new URL(url).hostname}</small><span class="text-link">Abrir recurso ↗</span></a>`).join('')}</div></section>`).join('')}<section class="method-section"><h3>Una guía sencilla para el tiempo juntos</h3><p>Adaptado del método D-Groups: observar, interpretar, aplicar, animarse mutuamente y orar.</p>${[...weeklyStudy.method.map(m=>[m.title,m.question]),...methodGuide.slice(3)].map(([title,copy],i)=>`<details class="method-detail"><summary><span>0${i+1} · ${title}</span><b>+</b></summary><p>${copy}</p></details>`).join('')}</section>`;}
-function render(){if(!curriculum)return;disposeSceneMotion();$('.series-hero').hidden=state.view!=='introduction';updateLocation();$('#view').innerHTML=`<div class="study-panel">${sectionBanner()}${({introduction:intro,reading,tools:toolsView,story:conceptsView,studies:studiesView,resources:resourcesView}[state.view])()}</div>`;wire();wireFrames($('#view'));disposeSceneMotion=wireSceneMotion(document);lastGateSignature=gateSignature();scheduleWeekOpening();}
+function render(){if(!curriculum)return;disposeSceneMotion();$('.series-hero').hidden=state.view!=='introduction';if($('#search-overview'))$('#search-overview').hidden=state.view!=='introduction';updateLocation();$('#view').innerHTML=`<div class="study-panel">${sectionBanner()}${({introduction:intro,reading,tools:toolsView,story:conceptsView,studies:studiesView,resources:resourcesView}[state.view])()}</div>`;wire();wireFrames($('#view'));disposeSceneMotion=wireSceneMotion(document);lastGateSignature=gateSignature();scheduleWeekOpening();}
 function openDialog(kicker,title,body){modalVersion++;$('#detail').classList.remove('commentary-reader');$('.commentary-font-controls')?.remove();$('#dialog-kicker').textContent=kicker;$('#dialog-body').innerHTML=`<h2 id="dialog-title">${esc(title)}</h2>${body}`;if(!$('#detail').open){document.documentElement.classList.add('dialog-open');$('#detail').showModal();}$('#detail').scrollTop=0;return modalVersion;}
 function closeDialog(){modalVersion++;$('#detail').close();document.documentElement.classList.remove('dialog-open');}
 $('#detail').addEventListener('close',()=>document.documentElement.classList.remove('dialog-open'));
