@@ -254,8 +254,8 @@
     },
     {
       "number": 6,
-      "image": "session-06.webp",
-      "alt": "María escucha a un ángel de rasgos de Oriente Medio y cuerpo luminoso en Nazaret.",
+      "image": "luke-01-nazareth-home-aerial-20261030.webp",
+      "alt": "Vista aérea de una casa y un patio sencillos de Galilea, con una puerta abierta, una vasija de barro y esteras a la luz del día, que evoca el entorno cotidiano de la historia de María.",
       "connections": [
         {
           "reference": "2 Samuel 7:12–16",
@@ -299,7 +299,8 @@
             }
           ]
         }
-      ]
+      ],
+      "commentaryTitle": "Gracia en un lugar cotidiano"
     },
     {
       "number": 7,
