@@ -6,7 +6,7 @@
     {
       "id": 1,
       "releaseAt": "2026-11-09T00:00:00+01:00",
-      "released": false,
+      "released": true,
       "available": true,
       "readings": [],
       "concepts": [
@@ -186,7 +186,23 @@
         "credit": "Enseñanza preparada para el Acto I y traducida al español. Cada tema se lee por separado, conservando abierto el desarrollo de la historia.",
         "wordCount": 1210
       },
-      "title": "El mundo está esperando"
+      "title": "Un nombre que recibimos",
+      "suppliedReflection": {
+        "module": 1,
+        "title": "Un nombre que recibimos",
+        "reference": "2 Samuel 7:8–16 · Isaías 9:1–7 · Miqueas 5:1–5 · Isaías 49:1–6",
+        "paragraphs": [
+          "Cuando leemos juntos estos cuatro pasajes, hay una palabra sencilla que vuelve a aparecer. Es la palabra «nombre». En su promesa a David, Dios le dice «te he hecho nombre grande» (2 Samuel 7:9). Isaías anuncia el nacimiento de un niño y dice que «llamaráse su nombre Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz» (Isaías 9:6). Miqueas habla de un gobernante que pastoreará al pueblo de Dios «con grandeza del nombre de Jehová su Dios» (Miqueas 5:4). Y en Isaías 49, el Siervo dice que Dios «tuvo mi nombre en memoria» aun antes de que él naciera (Isaías 49:1). La palabra recorre toda la historia como un hilo. Vale la pena detenernos a pensar por qué importan tanto los nombres.",
+          "Hoy también vivimos bajo el peso de ciertos nombres. Un nombre nunca es solo una palabra. Lleva consigo una historia. Piensa en Lionel Messi. Millones de personas saben quién es sin que nadie les explique su árbol genealógico. Su nombre ya cuenta una historia de años de entrenamiento, goles y victorias. O piensa en una universidad famosa. Cuando nos enteramos de que alguien estudió allí, ya esperamos ciertas cosas de esa persona, incluso antes de saber lo que realmente es capaz de hacer.",
+          "¿Qué tienen en común estos ejemplos? En ambos casos, el nombre ha ido adquiriendo significado con el paso del tiempo. Hay toda una historia detrás, y esa historia cambia la manera en que los demás ven a quien lleva ese nombre. En el mundo antiguo, un nombre solía indicar de dónde venías y a quién pertenecías. Hoy sigue siendo así, pero tu nombre también les dice a los demás qué defiendes, qué historia llevas contigo y con quién quieres que se te relacione.",
+          "La Biblia nos ayuda a ver aquí una distinción importante. Una cosa es hacerte un nombre y otra es recibir un nombre de Dios.",
+          "En Génesis 11, quienes construyen la torre de Babel dicen «hagámonos un nombre». Apenas un capítulo después, en Génesis 12, Dios le dice a Abraham «bendecirte he, y engrandeceré tu nombre». Las palabras se parecen mucho, pero las dos historias van en direcciones opuestas. En Babel, la gente intenta construir su propia grandeza. En la vida de Abraham, la grandeza es un regalo de Dios.",
+          "Esto no significa que sea pecado querer que nos conozcan o nos respeten. Proverbios 22 dice que «de más estima es la buena fama que las muchas riquezas». Un buen nombre tiene verdadero valor. La diferencia está en de dónde viene esa grandeza, para qué sirve y de quién dependemos para recibirla.",
+          "Eso es precisamente lo que vemos en la vida de David. Al fin y al cabo, su grandeza no nació de su habilidad para construirse una imagen. Dios le recuerda «Yo te tomé de la majada» (2 Samuel 7:8) y solo entonces le dice «te he hecho nombre grande». El nombre de David fue un regalo que Dios le dio como parte de su plan para salvar a su pueblo. Con el Siervo de Isaías 49 sucede algo parecido. Dios lo llamó y pronunció su nombre antes de que hubiera hecho nada. Su identidad venía de Dios y era anterior a todos sus logros.",
+          "Nuestro mundo suele funcionar de otra manera. Hoy podemos construir una imagen pública, crear una marca personal, elegir con cuidado lo que mostramos en internet, ganarnos una reputación profesional y presentarnos ante los demás tal como queremos que nos vean. Ninguna de estas cosas es mala en sí misma. Pero nos llevan a una pregunta mucho más profunda. ¿Quién decide de verdad cuánto valemos y quiénes somos? ¿La imagen que construimos, las personas que nos reconocen o el Dios que nos creó?",
+          "Al final, nuestra historia encuentra su lugar dentro de otra mucho mayor, la gran obra que Dios está haciendo en el mundo por medio del evangelio. Su invitación va más allá de sentarnos a esperar como espectadores que miran todo desde fuera. Nos invita a participar como un pueblo que ha recibido un nombre de Dios. Y ese nombre no es solo para nosotros. Al igual que el Siervo, a quien Dios llamó para ser «luz de las gentes» (Isaías 49:6), recibimos el nombre de Dios para salir al encuentro de otros e invitarlos a formar parte de su familia."
+        ]
+      }
     },
     {
       "id": 2,
