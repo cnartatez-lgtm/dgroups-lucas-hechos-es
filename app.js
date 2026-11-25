@@ -14,7 +14,7 @@ const commentaryParagraphs=s=>String(s||'').split(/\n\s*\n/).filter(Boolean).map
  const label=line.trim(),text=esc(line);
  if(/^Preguntas? para reflexionar:?$/i.test(label))return `<strong>${text}</strong>`;
  if(/^(?:Hacia dónde nos llevan estos versículos|Ideas opcionales para explorar):?$/i.test(label))return '<strong><em>Ideas opcionales para explorar</em></strong>';
- return text;
+ return text.replace(/https:\/\/open\.spotify\.com\/episode\/[A-Za-z0-9]+\b/g, url => `<a href="${url}">Spotify</a>`);
 }).join('<br>')}</p>`).join('');
 const storage={get(k,f){try{return localStorage.getItem('lucas-hechos-es-'+k)||f}catch{return f}},set(k,v){try{localStorage.setItem('lucas-hechos-es-'+k,v)}catch{}}};
 let commentaryTextSize=Math.min(26,Math.max(14,Number(storage.get('commentary-size',16))||16));
