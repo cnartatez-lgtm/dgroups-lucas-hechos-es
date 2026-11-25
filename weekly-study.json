@@ -3,15 +3,15 @@
   "method": [
     {
       "title": "Observación",
-      "question": "¿Quiénes participan y qué sucede?"
+      "question": "¿Qué dice el texto? ¿Quién está presente, qué sucede y qué palabras llaman la atención? Observa con cuidado antes de explicar."
     },
     {
       "title": "Interpretación",
-      "question": "¿Cuál es el mensaje principal para quienes lo escucharon por primera vez?"
+      "question": "¿Qué significaba este pasaje para sus primeros lectores? ¿Cuál era la enseñanza principal que Dios quería comunicarles?"
     },
     {
       "title": "Aplicación",
-      "question": "¿Qué nos muestra esto acerca de Dios y cómo responderemos?"
+      "question": "¿Cómo nos señala este pasaje a Jesús y qué significa para nosotros hoy? ¿Cómo responderemos?"
     }
   ],
   "sessions": [
@@ -496,5 +496,5 @@
       ]
     }
   ],
-  "discussionNote": "¿Qué otras cosas relacionadas observan? Conversen y reflexionen con sus compañeros de estudio."
+  "discussionNote": "¿Qué otras conexiones ves? Coméntalas con tu grupo."
 }

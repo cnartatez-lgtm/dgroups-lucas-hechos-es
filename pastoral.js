@@ -1,6 +1,6 @@
 export const pastoralIntroduction = {
   "title": "Unas palabras antes de comenzar",
-  "welcome": "Llegamos a este estudio con historias diferentes. Algunos conocemos la Biblia desde hace años; otros la abrimos con muchas preguntas. Quizá también estemos leyendo en una lengua que no es la nuestra. Hay espacio para que todos vayamos despacio, preguntemos qué significa una palabra y nos ayudemos a entender. Nuestra esperanza es que, al conocer a Jesús con mayor claridad, aprendamos a confiar más profundamente en él y a amarnos con mayor fidelidad.",
+  "welcome": "Cada uno llega con su propia historia. Algunos llevamos muchos años leyendo la Biblia. Otros la abrimos por primera vez y tenemos muchas preguntas. Muchos la leemos en un idioma que no es nuestra lengua materna. Está bien. Aquí podemos ir despacio, preguntar qué significa una palabra y ayudarnos a entender. Nuestra esperanza es sencilla: al conocer mejor a Jesús, aprenderemos a confiar más en él y a amarnos con mayor fidelidad.",
   "credit": "Notas de estudio desarrolladas por el pastor asociado Christian Nartatez en EIC Rueil-Malmaison, bajo la supervisión de los pastores principales de EIC Paris."
 };
 export const pastoralConcepts = [

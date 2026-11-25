@@ -3,14 +3,14 @@
   "subtitle": "De la promesa al testimonio · Un recorrido por Lucas–Hechos",
   "act": "Acto I: El Rey ha venido",
   "dates": "12 de octubre – 28 de diciembre de 2026",
-  "welcome": "Pensemos en este primer acto como una sola historia que se desarrolla semana a semana, y no como una lista de temas separados. Cada estudio comienza con un pasaje completo de la Escritura, una escena con su propio comienzo y final, y ese pasaje abre la conversación. Los módulos nos muestran hacia dónde va la historia, pero el texto bíblico siempre guía el diálogo.",
+  "welcome": "Estos doce estudios cuentan una sola historia, semana a semana. No son una lista de temas sueltos. Cada semana leemos una escena completa de la Biblia, con su propio principio y final. Ese pasaje abre la conversación. Los módulos nos muestran hacia dónde va la historia, pero el texto bíblico siempre nos guía.",
   "modules": [
     {
       "id": 1,
       "name": "Un nombre que recibimos",
       "dates": "12 de octubre al 2 de noviembre de 2026",
       "question": "¿Qué clase de Rey necesita el mundo?",
-      "description": "Antes de que Jesús entre en escena, pasamos un tiempo en un mundo lleno de promesas y anhelos. El camino ha sido escogido con cuidado: desde David, pasando por gobernantes que fallan una y otra vez, hasta la pequeña Belén y, finalmente, el corazón de Dios para Israel y todas las naciones. La meta no es reunir versículos que «demuestren» que Jesús es el Mesías. Es sentir, junto a las personas de aquella época, cuán profundamente necesitaba el mundo al Rey que Lucas está a punto de presentar.",
+      "description": "Antes de que aparezca Jesús, nos detenemos en un mundo lleno de promesas y anhelos. Seguimos un recorrido: empezamos con el rey David, pasamos por gobernantes que fallaron una y otra vez, llegamos al pequeño pueblo de Belén y terminamos con el amor de Dios por Israel y por todas las naciones. La meta no es reunir versículos que «demuestren» que Jesús es el Mesías. Queremos sentir, junto con la gente de aquel tiempo, cuánto necesitaba el mundo al Rey que Lucas está a punto de presentarnos.",
       "image": "waiting.webp",
       "alt": "Un trono de formas geométricas y un pergamino sobre las colinas de Judea al amanecer."
     },
@@ -19,7 +19,7 @@
       "name": "La promesa recibe un nombre",
       "dates": "9 al 23 de noviembre de 2026",
       "question": "¿Cómo reconoceremos al Rey prometido cuando venga?",
-      "description": "Ahora la historia pasa de «algún día» a «ahora». En Lucas 1, largos años de esperanza se convierten en noticias reales. Zacarías y Elisabet nos muestran cómo es una espera fiel. Gabriel nos dice quién es el Hijo prometido. Y María canta sobre todo ello como el cumplimiento de las promesas del pacto de Dios. Paso a paso, el grupo se prepara para reconocer al Rey, incluso antes de llegar a la escena de su nacimiento.",
+      "description": "Ahora la historia pasa de «algún día» a «ahora». En Lucas 1, después de tantos años de esperanza, llegan por fin las noticias. Zacarías y Elisabet nos muestran lo que significa esperar con fe. El ángel Gabriel nos dice quién es el Hijo prometido. María canta que Dios está cumpliendo las promesas de su pacto. Así, paso a paso, aprendemos a reconocer al Rey incluso antes de llegar al relato de su nacimiento.",
       "image": "promise.webp",
       "alt": "María escucha con las manos abiertas en un patio sencillo y soleado de Nazaret."
     },
@@ -28,7 +28,7 @@
       "name": "El Rey entra en el mundo",
       "dates": "30 de noviembre al 21 de diciembre de 2026",
       "question": "¿Qué nos muestra la llegada de Jesús acerca del Rey que hemos estado esperando?",
-      "description": "Aquí nos acercamos al Adviento y la Navidad, y la historia reduce su ritmo de manera intencional. En vez de apresurarnos por los relatos del nacimiento, nos detenemos a observar. Vemos cómo el Rey prometido viene al mundo, cómo el cielo explica su llegada, cómo lo reconocen quienes habían esperado tanto y cómo comenzamos a descubrir quién es realmente, mucho antes de que empiece su ministerio público.",
+      "description": "Ahora nos detenemos para vivir el Adviento y la Navidad. Nos tomamos el tiempo necesario para leer con atención los relatos del nacimiento. Vemos cómo viene al mundo el Rey prometido, cómo explica el cielo su llegada, cómo lo reconocen quienes tanto esperaron y cómo empezamos a descubrir quién es en realidad, mucho antes de que comience su ministerio público.",
       "image": "arrival.webp",
       "alt": "María y José junto al recién nacido Jesús en una vivienda humilde de Belén."
     },
@@ -37,7 +37,7 @@
       "name": "Treinta años después…",
       "dates": "28 de diciembre de 2026",
       "question": "¿Qué sucede cuando el Hijo sale de su vida oculta y comienza públicamente su misión?",
-      "description": "Esta es una semana más ligera, un puente entre los dos actos. El Acto II todavía no ha comenzado. Esta semana cambia la escena: el niño que había permanecido oculto ahora es revelado públicamente como el Hijo amado de Dios. La historia está lista para pasar de quién es él a lo que vino a hacer.",
+      "description": "Esta semana es más breve y sirve de puente entre el Acto I y el Acto II. El niño que creció en silencio en Nazaret se da a conocer públicamente como el Hijo amado de Dios. La historia está lista para pasar de quién es Jesús a lo que vino a hacer.",
       "image": null
     }
   ],
