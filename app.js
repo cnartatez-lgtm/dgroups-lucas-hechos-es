@@ -6,6 +6,15 @@ import {concepts,glossary,analyze,groupSessions} from './study.js?v=es-9c6c485a6
 import {glossaryForWeek} from './weekly-vocabulary.js?v=es-9c6c485a637f';
 import {resources,methodGuide} from './resources.js?v=es-9c6c485a637f';
 import {parseProgress,weekOpen,eligibleProgress,toggleCompleted,moduleCompleted,storyOpen} from './progress.js?v=es-9c6c485a637f';
+// Native keyboard and field behavior differs on iOS and Android. Layout follows the viewport.
+const ua = navigator.userAgent;
+if (/Android/i.test(ua) || navigator.userAgentData?.platform === 'Android') {
+  document.documentElement.dataset.mobilePlatform = 'android';
+  const viewport = document.querySelector('meta[name="viewport"]');
+  viewport.content += ', interactive-widget=resizes-content';
+} else if (/iPhone|iPad|iPod/i.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1)) {
+  document.documentElement.dataset.mobilePlatform = 'ios';
+}
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const paragraphs=s=>String(s||'').split(/\n\s*\n/).filter(Boolean).map(p=>`<p>${esc(p).replace(/\n/g,'<br>')}</p>`).join('');
@@ -249,5 +258,5 @@ function wireJourney(){
 window.addEventListener('storage',async e=>{if(curriculum&&e.key==='lucas-hechos-es-'+progressKey()){completed=readProgress();if(curriculum.modules.some(m=>storyAvailable(m.id)))try{await ensureStories()}catch{}if(!$('#detail').open)render();}});
 
 const sectionScenes={introduction:['intro','Introducción','Entra en la historia.'],reading:['read','Leer','Escucha el texto.'],studies:['studies','Comentarios pastorales','Enseñanza pastoral, una semana a la vez.'],story:['story','Historia','Descubre cómo se unen los hilos.'],tools:['tools','Herramientas','Mira las palabras más de cerca.'],resources:['resources','Recursos','Explora un poco más.']};
-function sectionBanner(){const [id,title,copy]=sectionScenes[state.view];return `${['reading','studies','story','tools','resources'].includes(state.view)?`<div class="section-banner" aria-label="${title}">${id?`<img src="./assets/banner-${id}.webp?v=20261012-diversity" alt="" width="1536" height="512" decoding="async">`:""}<div><span class="eyebrow">DE BELÉN A LAS NACIONES · ACTO I</span><p class="banner-title">${title}</p><p>${copy}</p></div></div>`:''}<div class="location-trail" aria-label="Tu lugar en el estudio">Acto I <span aria-hidden="true">/</span> ${esc(navs.find(n=>n[0]===state.view)[1])}${['reading','studies','commentaries'].includes(state.view)?` <span aria-hidden="true">/</span> ${esc(weekLabel(session().date))}`:state.view==='tools'?` <span aria-hidden="true">/</span> ${esc({words:'Palabras repetidas',glossary:'Glosario',tsk:'Concordancia bíblica TSK'}[state.tool])}`:''}</div>`;}
+function sectionBanner(){const [id,title,copy]=sectionScenes[state.view];return `${['reading','studies','story','tools','resources'].includes(state.view)?`<div class="section-banner" data-section="${state.view}" aria-label="${title}">${id?`<img src="./assets/banner-${id}.webp?v=20261012-diversity" alt="" width="1536" height="512" decoding="async">`:""}<div><span class="eyebrow">DE BELÉN A LAS NACIONES · ACTO I</span><p class="banner-title">${title}</p><p>${copy}</p></div></div>`:''}<div class="location-trail" aria-label="Tu lugar en el estudio">Acto I <span aria-hidden="true">/</span> ${esc(navs.find(n=>n[0]===state.view)[1])}${['reading','studies','commentaries'].includes(state.view)?` <span aria-hidden="true">/</span> ${esc(weekLabel(session().date))}`:state.view==='tools'?` <span aria-hidden="true">/</span> ${esc({words:'Palabras repetidas',glossary:'Glosario',tsk:'Concordancia bíblica TSK'}[state.tool])}`:''}</div>`;}
 function updateLocation(){const label=navs.find(n=>n[0]===state.view)[2];$('.breadcrumb').innerHTML=`<span class="crumb-series">Lucas–Hechos / Acto I</span><strong aria-current="page">${esc(label)}</strong>`;}
